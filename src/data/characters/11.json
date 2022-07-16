@@ -1,0 +1,283 @@
+{
+    "id":"11",
+    "name":"Eleven",
+
+    "pt_br":{   
+
+        "biographicalInformation":{    
+            "name": "Eleven", 
+            "story": "Jane Hopper (nascida Ives) é uma personagem principal de Stranger Things. Eleven/Onze era cobaia do Laboratório de Hawkins, sendo filha única de Terry Ives e Andrew Rich.        Em novembro de 1983, ela escapou do laboratório e foi encontrada na floresta por Mike, Lucas e Dustin enquanto procuravam Will Byers, ela foi adotada por Hopper na segunda temporada, quando ele 'morreu' foi morar com os Byers. Na série, Jane tem poderes psíquicos, podendo mover qualquer objeto ou pessoa através da mente. Na 3° temporada, ela perde seus poderes por conta da batalha com Devorador de mentes, no volume 2 da 4°temporada, ela os recupera e luta contra Vecna (001). Foi criada em um laboratório pois sua mãe deu a luz a ela lá, passou por vários testes afim de aprimorar sua telecinese, comandados por Dr. Martin Brenner.         Criada no Laboratório Nacional de Hawkins e completamente privada de socialização, Onze era tímida, socialmente retraída e extremamente cautelosa com outras pessoas. No entanto, ela se tornou ferozmente protetora e mostrou lealdade inflexível para com aqueles que se importavam com ela, especialmente para Mike, por quem ela se apaixonou, a ponto de se sacrificar para destruir o Monstro quando ele ameaçou prejudicar seus amigos. Mesmo depois de ser separada por um ano, Onze mostrou uma determinação considerável em salvar seus amigos, retornando a eles em Hawkins de Chicago quando sentiu que eles estavam em grave perigo através do Vazio , reunindo-se com eles no processo.              Em 1986, Onze é capaz de se comunicar em um nível mais alto, mas é mostrado que ela tem extrema dificuldade com interação social (além de seus colegas de Hawkins), falar em público e matemática. A perda de suas habilidades causou um golpe significativo em sua auto-estima, já que ela é considerada uma estranha e luta para ser uma pessoa normal, em vez de uma 'uper-heroína'. O bullying que ela recebe de alguns de seus colegas causa mais danos a ela e quando ela se cansa disso, Onze ataca sua inimiga, mas se arrepende imediatamente. Ao ter a chance de se tornar uma heroína novamente, ela escolheu passar por um programa de treinamento especial para salvar seus amigos mais uma vez e aprendeu a canalizar traumas passados ​​para desbloquear suas memórias e poderes reprimidos.", 
+            "otherNames": ["011 (Nome de cobaia)", "Jane Ives (Nome de nascimento)"], 
+            "nicknames": ["Onze (Brasil)", "On (Ou 'El' na versão original)"], 
+            "birthDate": "01/01/1971", 
+            "demise": null, 
+            "hobbies": {
+                "amigos":"Eleven demostra gostar bastante de ficar com seus amigos e principalmente seu namorado (Mike Wheeler)"
+            }, 
+            "currentAge": 15, 
+            "ageInSeasons":{
+                "Flashbacks": 8,
+                "t1": 12,
+                "t2": 13,
+                "t3": 14,
+                "t4": 15
+            }, 
+            "currentResidence": "Cabana Hopper (1986 - presente)", 
+            "otherResidences": ["Laboratório Nacional de Hawkins, Indiana (1971 - Novembro de 1983)", "Cabana Hopper (Dezembro de 1983 - Julho de 1985)", "Lenora Hills (1985 - 1986)"], 
+            "relatives": [
+                "Terry Ives (Mãe biológica)",
+                "Andrew Rich † (Pai biológico)",
+                "Becky Ives (Tia)",
+                "Jim Hopper (Pai adotivo)",
+                "Joyce Byers (Amiga / Mãe adotiva)",
+                "Will Byers (Amigo / Irmão adotivo)",
+                "Jonathan Byers (Amigo / Irmão adotivo)",
+                "Kali Prasad (Irmã de consideração / Ex-colega de testes)"
+            ], 
+            "otherRelationships": [
+                "Max Mayfield (Melhor amiga)",
+                "Mike Wheeler (namorado)",
+                "Lucas Sinclair (amigo)",
+                "Dustin Henderson (amigo)",
+                "Nancy Wheeler (Amiga)",
+                "Sam Owens (Amigo)",
+                "Martin Brenner † (Ex-figura paterna / captor)",
+                "Angela (Inimiga)",
+                "Jake (Inimigo)",
+                "Benny Hammond † (Benfeitor)"
+            ], 
+            "relationshipStatus": "Mike Wheeler (Namorado)", 
+            "occupations": ["Estudante"], 
+            "status": "Viva", 
+            "skills": {
+                "psíquicas":"Onze nasceu com habilidades sobrenaturais, adquiridas através de uma combinação de herança testes sofridos por Terry enquanto era cobaia do projeto Mk Ultra. Essas habilidades foram a razão pela qual ela foi sequestrada ao nascer e criada no Laboratório Nacional Hawkins, onde ela foi experimentada.",
+                "telecinese":"Seu poder mais recorrente, ela é capaz de manipular objetos, pessoas e criaturas com sua mente. Quando amplificada por suas emoções, sua telecinese é forte o suficiente para levantar objetos grandes e pesados; ela virou uma van do Laboratório Hawkins no ar em 'A banheira', e em 'A irmã perdida', com a ajuda de Kali, ela foi capaz de canalizar sua raiva para puxar um vagão de trem em sua direção."
+            }, 
+            "curiosities": ["Durante o Baile de Neve , Onze recebeu o laço de cabelo azul que originalmente pertencia à falecida filha de Hopper, Sara. Ela continua a usar o laço de cabelo a partir da segunda temporada."]
+        
+    },
+    "physicalInformation":{
+        "species": "Humana", 
+        "genre": "Feminino", 
+        "height": 1.68, 
+        "weight": "50kg", 
+        "eyeColor": "Castanho escuro", 
+        "hairColor": "Castanho" 
+    },
+    "Interpretation":{
+        "representedBy": "Millie Bobby Brown", 
+        "apparitions": [
+            "O Desaparecimento de Will Byers",
+            "A Estranha na Rua Maple",
+            "Caramba",
+            "O Corpo",
+            "A Pulga e o Acrobata",
+            "O Monstro",
+            "A Banheira",
+            "O Mundo Invertido",
+            "MADMAX",
+            "Gostosuras ou Travessuras, Aberração",
+            "O Girino",
+            "Will, o Sábio",
+            "Dig Dug",
+            "O Espião",
+            "A Irmã Perdida",
+            "O Devorador de Mentes",
+            "O Portal",
+            "Está me ouvindo, Suzie?",
+            "O Caso dos Ratos",
+            "A Salva-vidas Desaparecida",
+            "A Prova da Sauna",
+            "Os devorados",
+            "E Pluribus Unum",
+            "A Mordida",
+            "A Batalha de Starcourt"
+        ], 
+        "socialNetworks": {
+            "instagram":"https://www.instagram.com/milliebobbybrown/",
+            "twitter":"https://twitter.com/Milliestopshate",
+            "facebook":"https://facebook.com/milliebobbybrown"
+        }, 
+        "awards": [
+            "NME Awards, Herói do Ano (indicado-2017)",
+            "Young Artist Awards, Melhor Performance em Série ou Filme – Jovem Atriz (indicado-2017)",
+            "People's Choice Awards, Atriz de Ficção/Fantasia Favorita (indicado-2017)", 
+            "Screen Actors Guild Awards, Melhor Atriz em Série Dramática (indicado-2017)",
+            "Screen Actors Guild Awards, Melhor Elenco em Série Dramática (venceu-2017)",
+            "Fangoria Chainsaw Awards, Melhor Atriz de Televisão (venceu-2017)",
+            "Prêmio Saturno, Melhor Jovem Ator em Série de Televisão (venceu-2017)",
+            "MTV Movie & TV Awards, Melhor Ator em Série (venceu-2017)",
+            "MTV Movie & TV Awards, Melhor Herói (indicado-2017)",
+            "Teen Choice Awards, Estrela de Televisão Escolhida, (indicado-2017)",
+            "Emmy do Primetime, Melhor Atriz Coadjuvante em Série Dramática (indicado-2017)",
+            "Gold Derby TV Awards, Melhor Atriz Coadjuvante em Série Dramática (indicado-2017)",
+            "Gold Derby TV Awards, Melhor Performance do Ano (venceu-2017)",
+            "IGN People's Choice Award, Melhor Performance em Série Dramática, (venceu-2017)",
+            "Screen Actors Guild Awards, Melhor Atriz em Série Dramática (indicado-2018)",
+            "Screen Actors Guild Awards, Melhor Elenco em Série Dramática (indicado-2018)",
+            "Empire Awards, Melhor Atriz em Série de Televisão (indicado-2018)",
+            "Kids' Choice Awards, Atriz de Televisão Favorita (venceu-2018)",
+            "Prêmio Saturno, Melhor Jovem Ator em Série de Televisão (indicado-2018)",
+            "MTV Movie & TV Awards, Melhor Performance em Série (venceu-2018)",
+            "MTV Movie & TV Awards, Melhor Momento Musical com Finn Wolfhard (venceu-2018)",
+            "MTV Movie & TV Awards, Melhor Beijo com Finn Wolfhard (indicado-2018)",
+            "Teen Choice Awards, Atriz de Ficção/Fantasia Escolhida (venceu-2018)",
+            "Teen Choice Awards, Melhor Casal com Finn Wolfhard, (indicado-2018)",
+            "Gold Derby Awards, Melhor Atriz Coadjuvante em Série Dramática (indicado-2018)",
+            "Emmy do Primetime, Melhor Atriz Coadjuvante em Série Dramática (indicado-2018)",
+            "Kids' Choice Awards, Atriz de Televisão Favorita (indicado-2019)",
+            "Teen Choice Awards, Atriz de Verão Escolhida (venceu-2019)",
+            "Prêmio Saturno, Melhor Performance por Jovem Ator (indicado-2019)",
+            "Kids' Choice Awards, Atriz de Televisão Favorita (venceu-2020)",
+            "Kids' Choice Awards, Melhor Atriz em Cinema (venceu-2021)"
+
+        ], 
+        "patrimony": 10000000, 
+        "wage": 350000, 
+        "nationality": "Britanica",
+        "birthDate": "19/02/04", 
+        "occupations": null
+    }
+
+    },
+    
+
+    "en_us":{   
+
+        "biographicalInformation":{    
+            "name": "Eleven", 
+            "story": "Jane Hopper (née Ives) is a main character on Stranger Things. Eleven/Eleven was a subject at Hawkins Lab, the only child of Terry Ives and Andrew Rich. In 1983, she escaped the lab and was found in the woods by Mike, Lucas and Dustin while looking for Will Byers, she was elaborated by Hopper in season 2, when he 'died' went to live with the Byers season, she retrieves them and fights Vecna ​​(001). She underwent several tests to improve her telekinesis, commanded by Dr. Martin Brenner. Raised at Hawkins National Laboratory and completely deprived of socialization, Eleven was shy, socially withdrawn. and extremely wary of other people, she seriously destroyed herself protecting and adamantly committing to those, that she became important, especially to Mike, by sacrificing to the Monster when he dropped his friends. Even after being separated by his friends, Eleven showed a safe way out in saving Hawkins' friends from Chicago when he felt they were in danger through the Void, reuniting with them in the process. In 1986, Eleven is able to communicate at a higher level, but it is shown that she has extreme difficulty with social interaction (aside from her Hawkins peers), speaking in public mathematics, and. The loss of her abilities to be a significant blow to her self-esteem, as she is considered an outsider and an 'overrated' person. The bullying she gets from some of her peers and when it does more damage to her she gets tired of it, Eleven but adjusts properly to. Upon becoming a hero again, chosen to go through a special upgrade program to save a channel your friends once again use again to save your channel.", 
+            "otherNames": ["011 (guinea pig name)", "Jane Ives (Birth name)"], 
+            "nicknames": ["Onze (Brasil)", "On (Or 'El' in the original version)"], 
+            "birthDate": "01/01/1971", 
+            "demise": null, 
+            "hobbies": {
+                "friends":"Eleven proves to be very fond of being with her friends and especially her boyfriend (Mike Wheeler)"
+            }, 
+            "currentAge": 15, 
+            "ageInSeasons":{
+                "Flashbacks": 8,
+                "t1": 12,
+                "t2": 13,
+                "t3": 14,
+                "t4": 15
+            }, 
+            "currentResidence": "Hopper Hut (1986 - present)", 
+            "otherResidences": ["Hawkins National Laboratory, Indiana (1971 - November 1983)", "Hopper Cabin (December 1983 - July 1985)", "Lenora Hills (1985 - 1986)"], 
+            "relatives": [
+                "Terry Ives (Biological Mother)",
+                "Andrew Rich † (Biological Father)",
+                "Becky Ives (Aunt)",
+                "Jim Hopper (Foster Father)",
+                "Joyce Byers (Friend / Adoptive Mother)",
+                "Will Byers (Friend / Adoptive Brother)",
+                "Jonathan Byers (Friend / Adoptive Brother)",
+                "Kali Prasad (Sister of Consideration / Former Testmate)"
+            ], 
+            "otherRelationships": [
+                "Max Mayfield (Best Friend)",
+                "Mike Wheeler (boyfriend)",
+                "Lucas Sinclair (Friend)",
+                "Dustin Henderson (Friend)",
+                "Nancy Wheeler (Friend)",
+                "Sam Owens (Friend)",
+                "Martin Brenner † (Former Father Figure/Captor)",
+                "Angela (Enemy)",
+                "Jake (Enemy)",
+                "Benny Hammond † (Benefactor)"
+            ], 
+            "relationshipStatus": "Mike Wheeler (Boyfriend)", 
+            "occupations": ["Studant"], 
+            "status": "Live", 
+            "skills": {
+                "Psychic": "Eleven was born with supernatural abilities, acquired through a combination of inheritance tests suffered by Terry while he was a subject for the Mk Ultra project. These abilities were the reason she was kidnapped at birth and raised at Hawkins National Laboratory, where she was tried.",
+                "telekinesis": "Her most recurring power, she is able to manipulate objects, people, and creatures with her mind. When amplified by her emotions, her telekinesis is strong enough to lift large, heavy objects; she turned into a Hawkins Lab van in the air in 'The Bathtub', and in 'The Lost Sister', with Kali's help, she was able to channel her anger into pulling a train car towards her."
+            }, 
+            "curiosities": ["During the Snow Ball, Eleven received the blue hair bow that originally belonged to Hopper's late daughter Sara. She continues to wear the hair bow as of season two."]
+        
+    },
+    "physicalInformation":{
+        "species": "Human", 
+        "genre": "Feminine", 
+        "height": 1.68, 
+        "weight": "50kg", 
+        "eyeColor": "Dark brown", 
+        "hairColor": "Brown" 
+    },
+    "Interpretation":{
+        "representedBy": "Millie Bobby Brown", 
+        "apparitions": [
+            "The Disappearance of Will Byers",
+            "The Stranger on Maple Street",
+            "Damn it",
+            "The body",
+            "The Flea and the Acrobat",
+            "The monster",
+            "The bathtub",
+            "The Upside Down",
+            "MADMAX",
+            "Trick or Treat, Freak",
+            "The Tadpole",
+            "Will the Sage",
+            "Dig Dug",
+            "The Spy",
+            "The Lost Sister",
+            "The Mind Flayer",
+            "The portal",
+            "Can you hear me, Suzie?",
+            "The Case of the Rats",
+            "The Missing Lifeguard",
+            "The Sauna Test",
+            "The Devoured",
+            "E Pluribus Unum",
+            "The Bite",
+            "The Battle of Starcourt"
+        ], 
+        "socialNetworks": {
+            "instagram":"https://www.instagram.com/milliebobbybrown/",
+            "twitter":"https://twitter.com/Milliestopshate",
+            "facebook":"https://facebook.com/milliebobbybrown"
+        }, 
+        "awards": [
+            "NME Awards, Hero of the Year (Nominated-2017)",
+            "Young Artist Awards, Best Performance in a Series or Movie – Young Actress (Nominated-2017)",
+            "People's Choice Awards, Favorite Fiction/Fantasy Actress (Nominated-2017)",
+            "Screen Actors Guild Awards, Best Actress in a Drama Series (Nominated-2017)",
+            "Screen Actors Guild Awards, Outstanding Ensemble in a Drama Series (won-2017)",
+            "Fangoria Chainsaw Awards, Best Television Actress (won-2017)",
+            "Prêmio Saturno, Best Young Actor in a Television Series (won-2017)",
+            "MTV Movie & TV Awards, Best Actor in a Series (won-2017)",
+            "MTV Movie & TV Awards, Best Hero (Nominated-2017)",
+            "Teen Choice Awards, Chosen Television Star, (2017 Nominated)",
+            "Primetime Emmy Award, Outstanding Supporting Actress in a Drama Series (Nominated-2017)",
+            "Gold Derby TV Awards, Best Supporting Actress in a Drama Series (Nominated-2017)",
+            "Gold Derby TV Awards, Best Performance of the Year (won-2017)",
+            "IGN People's Choice Award, Outstanding Performance in a Drama Series, (won-2017)",
+            "Screen Actors Guild Awards, Best Actress in a Drama Series (Nominated-2018)",
+            "Screen Actors Guild Awards, Outstanding Ensemble in a Drama Series (Nominated-2018)",
+            "Empire Awards, Best Actress in a Television Series (Nominated-2018)",
+            "Kids' Choice Awards, Favorite Television Actress (won-2018)",
+            "Prêmio Saturno, Best Young Actor in a Television Series (nominated-2018)",
+            "MTV Movie & TV Awards, Best Performance in a Series (won-2018)",
+            "MTV Movie & TV Awards, Best Musical Moment with Finn Wolfhard (won-2018)",
+            "MTV Movie & TV Awards, Best Kiss with Finn Wolfhard (Nominated-2018)",
+            "Teen Choice Awards, Choice Fiction/Fantasy Actress (won-2018)",
+            "Teen Choice Awards, Best Couple with Finn Wolfhard, (nominated-2018)",
+            "Gold Derby Awards, Best Supporting Actress in a Drama Series (Nominated-2018)",
+            "Primetime Emmy Award, Outstanding Supporting Actress in a Drama Series (Nominated-2018)",
+            "Kids' Choice Awards, Favorite Television Actress (Nominated-2019)",
+            "Teen Choice Awards, Chosen Summer Actress (won-2019)",
+            "Prêmio Saturno, Best Performance by a Young Actor (Nominated-2019)",
+            "Kids' Choice Awards, Favorite Television Actress (won-2020)",
+            "Kids' Choice Awards, Best Actress in a Motion Picture (won-2021)"
+        ], 
+        "patrimony": 10000000, 
+        "wage": 350000, 
+        "nationality": "British",
+        "birthDate": "02/19/04", 
+        "occupations": null
+    }
+
+    }
+    
+}
