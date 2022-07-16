@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "gulog": "^2.0.0",
+    "helmet": "^5.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  },
+  "type": "module",
+  "name": "strangerthings-api",
+  "version": "1.0.0",
+  "description": "Uma api rest feita com javascript com o intuito de enviar informações sobre a serie stranger things.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjetoPlanck/StrangerThingsAPI.git"
+  },
+  "author": "DARKnx#6070",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProjetoPlanck/StrangerThingsAPI/issues"
+  },
+  "homepage": "https://github.com/ProjetoPlanck/StrangerThingsAPI#readme"
+}

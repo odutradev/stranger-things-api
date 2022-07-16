@@ -1,0 +1,20 @@
+import chalk from 'chalk';
+import log from 'gulog';
+
+import { app } from './app.js';
+
+log.setup({
+    prefix: '(StrangerThings)',
+});
+
+console.log(1)
+
+const PORT = process.env.PORT || 3000
+const server = app.listen(PORT, () => {
+    log.info(`🚀 Server iniciado em ${chalk.cyan(PORT)}.`);
+});
+
+process.on('SIGINT', () => {
+    server.close()
+    log.info('App finalizado')
+})
