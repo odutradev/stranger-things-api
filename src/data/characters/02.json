@@ -1,0 +1,144 @@
+{
+    "id":"2",
+    "name":"Suzie Bingham",
+
+    "pt_br":{   
+
+        "biographicalInformation":{    
+            "name": "Suzie Bingham", 
+            "story": "Suzie Bingham é uma antagonista de Stranger Things. Suzie é namorada de Dustin e aparece no último episódio (A Batalha do Starcourt) cantando com Dustin e dizendo a constante de Plank. Ela é Dustin se conhece no acampamento (Know Where) e se apaixonaram pelo fato deles gostarem das mesmas coisas. Ela chama seu namorado de Dustinzinho, e ele a chama de Suzie-Linda (Brasil) Suzie-Poo (EUA). Ela é irmã de Éden Bingham, como mostrado na quarta temporada, além disso tem vários outros irmãos.", 
+            "otherNames": null, 
+            "nicknames": ["Suzie-Linda (Brasil)","Suzie-Poo (EUA)"], 
+            "birthDate": "01/01/1971", 
+            "demise": null, 
+            "hobbies": {
+                "musica":"Visto no episódio (A Batalha do Starcourt), Suzie cantando com Dustin e mostrado que ela gosta de cantar principalmente ao lado de Dustin.",
+                "programação":"No episodio (The Dive) Suzie demonstra suas habilidades com a tecnologia e exibe que a internet vai mudar o mundo com a frase 'Nada demais ela só vai, mudar o mundo'"
+            }, 
+            "currentAge": 15, 
+            "ageInSeasons":{
+                "t1": 12,
+                "t2": 13,
+                "t3": 14,
+                "t4": 15
+            }, 
+            "currentResidence": "Salt Lake City, Utah", 
+            "otherResidences": null, 
+            "relatives": [
+                "Sr. Bingham (Pai)",
+                "Sra. Bingham (Mãe)",
+                "Eden Bingham (Irmã)",
+                "Tabitha Bingham (Irmã)",
+                "Cornelius Bingham (Irmão)",
+                "Stealling Bingham (Irmão)",
+                "Tatum Bingham (Irmã)",
+                "Peter Bingham (Irmão)"
+            ], 
+            "otherRelationships": [
+                "Mike Wheeler (Amigo)",
+                "Will Byers (Amigo)",
+                "Lucas Sinclair (Amigo)"
+            ], 
+            "relationshipStatus": "Dustin Henderson (Namorado)", 
+            "occupations": ["Estudante"], 
+            "status": "Viva", 
+            "skills": {
+                "tecnologia":"Suzie demonstra habilidades para buscar a geolocalização de um ip rapidamente e ainda consegue mudar as notas de Dustin em um dos episodios."
+            }, 
+            "curiosities": ["Suzie conheceu Dustin no acampamento (Know Where).", "Em uma das citações de Suzie (Nada demais ela só vai, mudar o mundo), ela mostrou que a internet iria mudar o mundo."]
+    },
+    "physicalInformation":{
+        "species": "Humana", 
+        "genre": "Feminino", 
+        "height": null, 
+        "weight": null, 
+        "eyeColor": "Castanho", 
+        "hairColor": "Castanho claro" 
+    },
+    "Interpretation":{
+        "representedBy": "Gabriela Pizzollo", 
+        "apparitions": ["A Batalha de Starcourt", "O Mergulho"], 
+        "socialNetworks": {
+            "instagram":"https://www.instagram.com/gabriellapizzolo/",
+            "cameo":"https://www.cameo.com/gabriellapizzolo"
+        }, 
+        "awards": null, 
+        "patrimony": null, 
+        "wage": null, 
+        "nationality": "Americano",
+        "birthDate": "10/03/2003", 
+        "occupations": null
+    }
+
+    },
+    "en_us":{   
+
+        "biographicalInformation":{    
+            "name": "Suzie Bingham", 
+            "story": "Suzie Bingham is an antagonist of Stranger Things. Suzie is Dustin's girlfriend and appears in the last episode (The Battle of Starcourt) singing with Dustin and saying Plank's constant. She and Dustin meet at Know Where and fall in love with the fact that they like the same things. She calls her boyfriend Dustinzinho, and he calls her Suzie-Linda (Brazil) Suzie-Poo (USA). She is Eden Bingham's sister, as shown in Season 4, and has several other siblings.", 
+            "otherNames": null, 
+            "nicknames": ["Suzie-Linda (Brasil)","Suzie-Poo (EUA)"], 
+            "birthDate": "01/01/1971", 
+            "demise": null, 
+            "hobbies": {
+                "musica":"Seen in the episode (The Battle of Starcourt), Suzie singing with Dustin and shown that she mostly enjoys singing alongside Dustin.",
+                "programação":"In the episode (The Dive) Suzie demonstrates her skills with technology and shows that the internet will change the world with the phrase 'Nothing much, it will just change the world'"
+            }, 
+            "currentAge": 15, 
+            "ageInSeasons":{
+                "t1": 12,
+                "t2": 13,
+                "t3": 14,
+                "t4": 15
+            }, 
+            "currentResidence": "Salt Lake City, Utah", 
+            "otherResidences": null, 
+            "relatives": [
+                "Sr. Bingham (Dad)",
+                "Sra. Bingham (Mother)",
+                "Eden Bingham (Sister)",
+                "Tabitha Bingham (Sister)",
+                "Cornelius Bingham (Brother)",
+                "Stealling Bingham (Brother)",
+                "Tatum Bingham (Sister)",
+                "Peter Bingham (Brother)"
+            ], 
+            "otherRelationships": [
+                "Mike Wheeler (Friend)",
+                "Will Byers (Friend)",
+                "Lucas Sinclair (Friend)"
+            ], 
+            "relationshipStatus": "Dustin Henderson (Boyfriend)", 
+            "occupations": ["Student"], 
+            "status": "Live", 
+            "skills": {
+                "tecnologia":"Suzie demonstrates skills to quickly search for the geolocation of an ip and even manages to change Dustin's notes in one of the episodes."
+            }, 
+            "curiosities": ["Suzie met Dustin at camp (Know Where).", "In one of Suzie's quotes (Nothing much she's just gonna change the world), she showed that the internet was going to change the world."]
+    },
+    "physicalInformation":{
+        "species": "Human", 
+        "genre": "Feminine", 
+        "height": null, 
+        "weight": null, 
+        "eyeColor": "Brown", 
+        "hairColor": "Light brown" 
+    },
+    "Interpretation":{
+        "representedBy": "Gabriela Pizzollo", 
+        "apparitions": ["The Battle of Starcourt", "The Dive"], 
+        "socialNetworks": {
+            "instagram":"https://www.instagram.com/gabriellapizzolo/",
+            "cameo":"https://www.cameo.com/gabriellapizzolo"
+        }, 
+        "awards": null, 
+        "patrimony": null, 
+        "wage": null, 
+        "nationality": "American",
+        "birthDate": "03/10/2003", 
+        "occupations": null
+    }
+
+    }
+    
+}

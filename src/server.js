@@ -7,7 +7,6 @@ log.setup({
     prefix: '(StrangerThings)',
 });
 
-console.log(1)
 
 const PORT = process.env.PORT || 3000
 const server = app.listen(PORT, () => {
