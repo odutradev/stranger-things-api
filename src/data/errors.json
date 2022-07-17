@@ -1,0 +1,10 @@
+{
+    "language_not_supported": {
+        "message": "Language not supported.",
+        "statusCode": 400
+    },
+    "internal_error": {
+        "message": "Internal error.",
+        "statusCode": 500
+    }
+}
