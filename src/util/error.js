@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const sendError = (res, errorMessage) =>  {
+const sendError = (res, errorMessage, replaceMessage) =>  {
 
   fs.readFile('./src/data/errors.json', (err, data) => {
 
@@ -16,7 +16,7 @@ const sendError = (res, errorMessage) =>  {
         return res.status(error.statusCode).json({
             error: {
                 code: error.statusCode,
-                message: error.message,
+                message: error.message.replace("%%%", replaceMessage),
             },
         });
     } catch {}

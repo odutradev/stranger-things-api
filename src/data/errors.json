@@ -3,8 +3,25 @@
         "message": "Language not supported.",
         "statusCode": 400
     },
+    "invalid_query_parameters": {
+        "message": "Invalid query parameters.",
+        "statusCode": 400
+    },
+    "character_limit": {
+        "message": "The character list contains only %%% elements.",
+        "statusCode": 400
+    },
     "internal_error": {
         "message": "Internal error.",
         "statusCode": 500
+    },
+    "character_not_found": {
+        "message":"Character not found.",
+        "statusCode": 404
+    },
+    "character_similarity": {
+        "message":"Character not found, The most similar is %%%.",
+        "statusCode": 404
     }
+
 }
