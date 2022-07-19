@@ -1,0 +1,52 @@
+{
+    "id": 9,
+    "name": "Public-library",
+
+    "pt_br":{
+        "name":"Biblioteca Pública",
+        "summary": null, 
+        "location": "Biblioteca Pública", 
+        "history":null,
+        "type": null, 
+        "population":{
+            "Mundo Invertido":[
+                "Gavinha da Biblioteca"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees":[
+            "Marissa (bibliotecária)"
+        ],
+        "students": null,
+        "events": null
+    },
+    "en_us":{
+        "name":"Public Library",
+        "summary": null,
+        "location": "Public Library",
+        "history": null,
+        "type": null,
+        "population":{
+            "Inverted World":[
+                "Library tendril"
+            ]
+        },
+        "locationsIncluded": null,
+        "curiosities": null,
+        "behindTheScenes": null,
+        "rules": null,
+        "grades": null,
+        "rooms": null,
+        "employees":[
+            "Marissa (librarian)"
+        ],
+        "students": null,
+        "events": null
+    }
+
+}
