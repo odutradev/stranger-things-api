@@ -1,0 +1,74 @@
+{
+    "id": 2,
+    "name": "Inverted-world",
+
+    "pt_br":{
+        "name":"Mundo Invertido",
+        "summary": "O Mundo Invertido é uma dimensão espacial paralela que coexiste com a nossa própria. Ela se parece muito com os locais correspondentes em Hawkins, Indiana. A dimensão paralela é também referida como o Vale das Sombras por Dustin, Lucas e Mike, fortemente influenciados pelo jogo de mesa Dungeons & Dragons. Ele também pode ser referido como 'A Dimensão Sombria' pelos fãs da série. A descrição lida por Dustin diz o seguinte:'O Vale das Sombras é uma dimensão que é um reflexo sombrio ou um eco de nosso mundo. É um lugar de decadência e morte. Um plano fora de fase. Um lugar de monstros. Está bem ao seu lado e você não pode ver.'  A dimensão sombria é pouco iluminada, com veias viscosas, que crescem como raízes sobre muitas superfícies. O ar é cheio com o que parecem ser esporos de penas. A única entidade 'viva' é o monstro. A porta entre diferentes dimensões é uma fenda caótica entre o espaço e o tempo que provoca efeitos colaterais significativos, com distúrbios no campo magnético e cataclismos, sendo apenas alguns dos efeitos. A porta de entrada para o mundo invertido é uma divisão da consistência de um lodo ou uma geléia negra que parece ter sua própria vida e tende a fechar por trás aos que passam por ela.Quando as crianças pedem explicações ao Sr. Clarke sobre diferentes dimensões, ele explica que viagens inter-dimensionais não são possíveis porque os seres humanos não são capazes de criar a enorme quantidade de energia necessária. Teoricamente, no entanto, você teria que criar uma ruptura no espaço e no tempo, em seguida, criar uma porta para permitir a passagem. As habilidades psíquicas de Onze permitir-lhe chegar facilmente a dimensão, mas qualquer um pode ser engolido por um portal e encontrar-se perdido no mundo invertido.", 
+        "location": null, 
+        "history": null,
+        "type": "Dimensão Alternativa", 
+        "population":{
+            "interna":[
+                "O Monstro",
+                "O Devorador de Mentes",
+                "Demodogs",
+                "O dragão"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules":[
+            "Qualquer um pode afetar o mundo real através de energia elétrica da dimensão sombria. Will explora isso para se comunicar com sua mãe a partir da versão alternativa de sua própria casa. Vozes também podem ser ouvidas, ainda que não claramente, tanto do escuro quanto no mundo real.",
+            "A criatura é capaz de puxar os indivíduos (como Will e Barbara Holland) para a dimensão sombria, e pode entrar brevemente em Hawkins através de uma ruptura no espaço-tempo. Isso cria uma distorção espacial similar a uma parede com uma dobra para fora e, eventualmente, como se estivesse rasgando. Embora muitas das rupturas têm-se emendado, existe uma que permaneceu e é o maior rasgo sendo apelidado de 'o portal'.",
+            "O poder de El era forte o suficiente para rasgar o espaço-tempo e criar um portal para a dimensão sombria, razão pela qual mais tarde ela se culpava enquanto a criatura se aproveitou disso para se alimentar de seres humanos."
+        ], 
+        "grades":[
+            "A maneira que um dos funcionários do laboratório penetra através de uma porta remete a uma cena semelhante no filme Poltergeist.",
+            "Abaixo está Ross e Matt Duffer (os criadores da série) descrevendo a mitologia inexplorada eles estão segurando em reserva para a próxima temporada de coisas estranhas: Com o Mundo Invertido, temos um documento de 30 páginas que é bastante complexo em termos do que é todo o seu significado e de onde este monstro realmente vem, e por que não há mais monstros - temos todas essas coisas que nós apenas não tivemos tempo, ou não sentimos que precisávamos introduzir na primeira temporada, por causa da tensão principal do Will. Temos todo um outro mundo que nós ainda não exploramos totalmente nesta temporada, e isso foi muito proposital.",
+            "Matt disse: Queríamos um modo simples e um mistério um tanto simples, com estouros bizarros de horror sobrenatural e, em seguida, adicionamos uma mitologia maior por trás dessa fenda que só sabemos e se referem como o Mundo Invertido porque é isso que os meninos decidem chamá-lo. Eles estão teorizando com base no seu conhecimento a partir de jogos de fantasia e de seu professor de ciências, o Sr. Clarke. Isso é tanto quanto nós chegamos a compreendê-lo.",
+            "Ross disse: Caso não existisse uma segunda temporada, que iria revelar mais do referido documento de 30 páginas, ainda gostaria de mantê-lo a partir do ponto de vista dos nossos personagens originais. Parece que uma grande parte das suas 30 páginas de documentos sobre mitologia trata da natureza do Mundo Invertido, sugerindo que o universo paralelo também vai desempenhar um papel importante em uma teórica 2ª Temporada de Stranger Things.",
+            "Ross explicou algumas das consequências que podem girar fora do tempo de Will na cabeça para baixo:  Will esteve lá por uma semana inteira, e ele teve algum tipo de efeito sobre ele, tanto emocional e talvez fisicamente. A ideia é que ele escapou do lugar do pesadelo, mas ele realmente conseguiu? Esse é um lugar que queríamos ir e potencialmente explorar na segunda temporada. Qual o efeito dos que vivem lá por uma semana pode ter sobre ele? E o que foi feito com ele? Não é bom, obviamente."
+        ], 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": null
+    },
+    "en_us":{
+        "name":"Inverted world",
+        "summary": "The Upside Down is a parallel spatial dimension that coexists with our own. It closely resembles the corresponding locations in Hawkins, Indiana. The parallel dimension is also referred to as the Valley of Shadows by Dustin, Lucas and Mike, heavily influenced by the Dungeons & Dragons tabletop game. It can also be referred to as 'The Dark Dimension' by fans of the series. The description read by Dustin reads as follows: 'The Valley of Shadows is a dimension that is a dark reflection or echo of our world. It's a place of decay and death. A plane out of phase. A place of monsters. It's right beside you and you can't see it.' The dark dimension is dimly lit, with slimy veins, which grow like roots over many surfaces. The air is filled with what appear to be feathery spores. The only 'living' entity is the monster. The door between different dimensions is a rift chaos between space and time that causes significant side effects, with disturbances in the magnetic field and cataclysms being just some of the effects. The gateway to the upside down is a split of the consistency of a slime or a black jelly that appears to have their own life and tends to close behind those who pass through it. When children ask Mr. Clarke for explanations about different dimensions, he explains that inter-dimensional travel is not possible because humans are not able to create the enormous amount of energy required. Theoretically, however, you would have to create a rupture in space and time, then create a door to allow passage through. Eleven's psychic abilities allow her to reach the dimension easily, but anyone can be swallowed by a portal and find themselves lost in the inverted world.",
+        "location": null, 
+        "history": null,
+        "type": "Alternative Dimension", 
+        "population":{
+            "internal":[
+                "The monster",
+                "The Mind Flayer",
+                "Demodogs",
+                "The Dragon"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules":[
+            "Anyone can affect the real world through electrical energy from the dark dimension. Will exploits this to communicate with his mother from the alternate version of his own home. Voices can also be heard, albeit not clearly, both from the dark and from the dark. in the real world.",
+            "The creature is able to pull individuals (such as Will and Barbara Holland) into the dark dimension, and can briefly enter Hawkins through a space-time rift. This creates a spatial distortion similar to a wall bending outwards. and eventually as if it were tearing. Although many of the tears have mended themselves, there is one that has remained and it is the biggest tear being dubbed 'the portal'.",
+            "El's power was strong enough to rip through space-time and create a portal to the dark dimension, which is why she later blamed herself as the creature took advantage of this to feed on humans."
+        ], 
+        "grades":[
+            "The way one of the lab workers breaks through a door is reminiscent of a similar scene in the movie Poltergeist.",
+            "Below is Ross and Matt Duffer (the show's creators) describing the unexplored mythology they're holding in reserve for the upcoming season of Weird Things: With The Upside Down, we have a 30-page document that's quite complex in terms of what it is. all its meaning and where this monster really comes from, and why aren't there more monsters - we have all these things that we just didn't have time, or didn't feel like we needed to introduce in season one, because of the main tension of Will. a whole other world that we haven't fully explored this season, and that was very purposeful.",
+            "Matt said: We wanted a simple mode and a somewhat simple mystery with bizarre bursts of supernatural horror and then we added a bigger mythology behind this rift that we only know and refer to as the Upside Down because that's what the boys do. decide to call him. They're theorizing based on their knowledge from fantasy games and their science teacher, Mr. Clarke. That's as far as we've come to understand him.",
+            "Ross said: If there weren't a second season, which would reveal more of said 30-page document, I'd still like to keep it from our original characters' point of view. Mythology deals with the nature of the Upside Down, suggesting that the parallel universe will also play an important role in a theoretical Stranger Things Season 2.",
+            "Ross explained some of the consequences that can turn off Will's time upside down: Will was there for a whole week, and it had some sort of effect on him, both emotionally and maybe physically. nightmare place, but did he really make it? That's a place we wanted to go and potentially explore in season 2. What effect can living there for a week have on him? And what became of him? It's not good, obviously."
+        ], 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": null
+    }
+
+}
