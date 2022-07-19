@@ -1,0 +1,141 @@
+{
+    "curiosities":[
+
+        {
+            "id": 1,
+            "pt_br":{
+                "message":"Às vezes, tudo o que a gente precisa é superar uma rejeição e tentar novamente. Neste aspecto, os criadores da série Stranger Things foram bem persistentes: eles foram rejeitados cerca de 20 vezes pela Netflix antes de serem aceitos pela empresa de streaming. Uma das preocupações era que o elenco infantil poderia não conquistar o público adulto. Superada a rejeição, a série pode chegar a ter até cinco temporadas."
+            },
+            "en_us":{
+                "message":"Sometimes all you need to do is get over a rejection and try again. In this respect, the creators of the Stranger Things series were pretty persistent: they were rejected about 20 times by Netflix before being accepted by the streaming company. One of the concerns was that the children's cast might not win over the adult audience. Once the rejection is overcome, the series could have up to five seasons."
+            }
+        },
+        {
+            "id": 2,
+            "pt_br":{
+                "message":"A série foi criada pelos gêmeos Matt Duffer e Ross Duffer, conhecidos como os The Duffer Brothers. Eles fazem filmes desde quando eram crianças, começando a produzir após ganhar de presente de seus pais uma câmera de vídeo Hi8. Além de Stranger Things, eles são conhecidos pelo filme de terror 'Hidden', lançado em 2015."
+            },
+            "en_us":{
+                "message":"The series was created by twins Matt Duffer and Ross Duffer, known as The Duffer Brothers. They've been making movies since they were kids, starting to produce after being given a Hi8 video camera by their parents. are known for the horror movie 'Hidden', released in 2015."
+            }
+        },
+        {
+            "id": 3,
+            "pt_br":{
+                "message":"1000, Este foi o número aproximado de crianças que participaram das audições e enviaram seus vídeos de testes para fazer parte do elenco. Finn Wolfhard, o escolhido para ser o personagem Mike, gravou seu vídeo de cama, pois estava doente. Já Gaten Matarazzo havia feito audição para ser o personagem Mike e acabou virando o Dustin."
+            },
+            "en_us":{
+                "message":"1000, This was the approximate number of children who participated in the auditions and sent their audition videos to be part of the cast. Finn Wolfhard, the chosen to be the character Mike, recorded his bed video, as he was sick. Now Gaten Matarazzo had auditioned for the character of Mike and ended up becoming Dustin."
+            }
+        },
+        {
+            "id": 4,
+            "pt_br":{
+                "message":"Aquele olhar de suspense e profundo da personagem principal Eleven foi criado pela própria atriz que interpreta a menina, a jovem Millie Bobby Brown. Ela criou seu olhar para a audição e acabou ficando para toda a série."
+            },
+            "en_us":{
+                "message":"That deep, suspenseful look from the main character Eleven was created by the actress who plays the girl herself, the young Millie Bobby Brown. She created her look for the audition and ended up staying for the entire series."
+            }
+        },
+        {
+            "id": 5,
+            "pt_br":{
+                "message":"Além de seu olhar singular, Eleven também é conhecida pelo cabelo raspado na primeira temporada. A atriz Millie Bobby Brown realmente raspou sua cabeleira para a série, mas só depois de muita lábia. Os irmãos Duffer convenceram a pequena atriz após mostrarem a cabeça raspada de Charlize Theron no filme 'Mad Max'."
+            },
+            "en_us":{
+                "message":"In addition to her unique look, Eleven is also known for her shaved hair in season one. Actress Millie Bobby Brown actually shaved her hair for the series, but only after a lot of lip service. The Duffer brothers convinced the little actress after showing her shaved head. by Charlize Theron in the movie 'Mad Max'."
+            }
+        },
+        {
+            "id": 6,
+            "pt_br":{
+                "message":"Falando da atriz principal Millie Bobby Brown, você sabia que o primeiro beijo da jovem foi em uma cena da série? Millie beija Finn Wolfhard, o ator que interpreta Mike, no final da primeira temporada. Na época da cena, a atriz tinha apenas doze anos."
+            },
+            "en_us":{
+                "message":"Speaking of the lead actress Millie Bobby Brown, did you know that the young woman's first kiss was in a scene of the series? Millie kisses Finn Wolfhard, the actor who plays Mike, at the end of the first season. At the time of the scene, the actress was only twelve years."
+            }
+        },
+        {
+            "id": 7,
+            "pt_br":{
+                "message":"Falando de romance, os atores Charlie Heaton e Natalia Dyer, que vivem um par romântico na série, realmente namoram fora das telas. Em Stranger Things, eles são o casal Nancy e Jonathan."
+            },
+            "en_us":{
+                "message":"Speaking of romance, actors Charlie Heaton and Natalia Dyer, who play a love interest in the series, really date off-screen. In Stranger Things, they are Nancy and Jonathan."
+            }
+        },
+        {
+            "id": 8,
+            "pt_br":{
+                "message":"Em uma cena da primeira temporada, a personagem Eleven aparece flutuando em um tanque cheio de água. Mas o que você não sabe é que também havia 90 quilos de sulfato de magnésio no tanque, necessários para fazer a atriz flutuar."
+            },
+            "en_us":{
+                "message":"In a scene from the first season, the character Eleven appears floating in a tank full of water. But what you don't know is that there was also 90 kilos of magnesium sulfate in the tank, needed to make the actress float."
+            }
+        },
+        {
+            "id": 9,
+            "pt_br":{
+                "message":"Debaixo d'água, Além de flutuar, a personagem Eleven precisa também passar muito tempo embaixo d'água, principalmente nas cenas no laboratório de experiências. Em uma das cenas, a atriz usou um capacete Sea Tank, que pesa 31 quilos fora d'água e apenas seis quilos quando imerso. Nas cenas em que a atriz passa dentro da água, os diretores se comunicavam com ela através de um pequeno fone em seu ouvido."
+            },
+            "en_us":{
+                "message":"Underwater, In addition to floating, the character Eleven also needs to spend a lot of time underwater, especially in the scenes in the experiment lab. In one of the scenes, the actress wore a Sea Tank helmet, which weighs 31 kilos out of 'water and only six kilos when immersed. In scenes where the actress is in the water, the directors communicated with her through a small headset in her ear."
+            }
+        },
+        {
+            "id": 10,
+            "pt_br":{
+                "message":"Muitas das referências usadas pelos irmãos Duffer, diretores da série, são de filmes dos anos 1980, como os trabalhos dos diretores Steven Spielberg e Stephen King. Aliás, o lendário diretor Stephen King é fã do seriado e já elogiou o programa em seu perfil no Twitter, em 2016."
+            },
+            "en_us":{
+                "message":"Many of the references used by the Duffer brothers, directors of the series, are from 1980s films, such as the works of directors Steven Spielberg and Stephen King. In fact, the legendary director Stephen King is a fan of the series and has already praised the program in his profile. on Twitter in 2016."
+            }
+        },
+        {
+            "id": 11,
+            "pt_br":{
+                "message":"As referências aos anos 1980 também se encontram no cenário, roupas e locações. Para entrar no clima, os diretores resolveram filmar as cenas em uma cidade chamada Jackson, na Georgia (EUA). Isto porque a cidade era pouco desenvolvida economicamente e suas ruas estavam bem desatualizadas em comparação a outras cidades."
+            },
+            "en_us":{
+                "message":"References to the 1980s are also found in the scenery, clothes and locations. To get in the mood, the directors decided to film the scenes in a city called Jackson, Georgia (USA). This is because the city was not economically developed and its streets They were pretty outdated compared to other cities."
+            }
+        },
+        {
+            "id": 12,
+            "pt_br":{
+                "message":"Além da locação, alguns efeitos visuais foram adicionados às gravações. Um efeito granulado fez com que as filmagens digitais parecessem ter sido feitas em película."
+            },
+            "en_us":{
+                "message":"In addition to the location, some visual effects were added to the footage. A grainy effect made the digital footage look like it was shot on film."
+            }
+        },
+        {
+            "id": 13,
+            "pt_br":{
+                "message":"Em 2018, os irmãos Duffer foram acusados de plágio pelo cineasta Charlie Kessler, que afirma ter tido a ideia roubada de seu curta-metragem chamado Montauk. Para deixar tudo ainda mais suspeito, o cineasta diz que apresentou o trabalho para os gêmeos em 2014. Além disso, a série Stranger Things foi apresentada inicialmente com o nome Montauk. Estranho, não?"
+            },
+            "en_us":{
+                "message":"In 2018, the Duffer brothers were accused of plagiarism by filmmaker Charlie Kessler, who claims he had the idea stolen from his short film called Montauk. To make it even more suspicious, the filmmaker says he presented the work to the twins in 2014. Also, the Stranger Things series was initially introduced under the name Montauk. Strange, isn't it?"
+            }
+        },
+        {
+            "id": 14,
+            "pt_br":{
+                "message":"Os pequenos atores Caleb Mc Laughlin, que interpreta Lucas, e Gaten Matarazzo, o Dustin da série, já eram amigos antes de iniciarem as gravações de Stranger Things. Os dois trabalhavam na Broadway e eram colegas de profissão há um tempo."
+            },
+            "en_us":{
+                "message":"The little actors Caleb Mc Laughlin, who plays Lucas, and Gaten Matarazzo, the series' Dustin, were already friends before they started filming Stranger Things. The two worked on Broadway and were professional colleagues for a while."
+            }
+        },
+        {
+            "id": 15,
+            "pt_br":{
+                "message":"Por falar em Gaten Matarazzo, o adolescente realmente possui um problema dentário na vida real. O jovem tem displasia cleidocraniana, uma doença genética que afeta os ossos, principalmente os da face. Gaten já realizou algumas cirurgias para arrumar seu sorriso."
+            },
+            "en_us":{
+                "message":"Speaking of Gaten Matarazzo, the teenager really does have a dental problem in real life. The young man has cleidocranial dysplasia, a genetic disease that affects the bones, especially the bones of the face. Gaten has had some surgeries to fix his smile."
+            }
+        }
+
+    ]
+}
