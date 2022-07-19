@@ -1,0 +1,50 @@
+{
+    "id": 8,
+    "name": "Byers-castle",
+
+    "pt_br":{
+        "name":"Castelo Byers",
+        "summary": "Castelo Byers é uma espécie de cabana feita por Will e Jonathan Byers. Sempre que está chateado com algo ou quer ficar sozinho, Will vai até esse local.", 
+        "location": "Indiana, Hawkins", 
+        "history": null,
+        "type": "Fortaleza de madeira improvisada", 
+        "population":{
+            "interna":[
+                "Will Byers",
+                "Mike, Dustin e Lucas (As vezes)"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": null
+    },
+    "en_us":{
+        "name":"Byers Castle",
+        "summary": "Byers Castle is a kind of cabin made by Will and Jonathan Byers. Whenever he's upset about something or wants to be alone, Will goes to this place.", 
+        "location": "Indiana, Hawkins", 
+        "history": null,
+        "type": "improvised wooden fortress", 
+        "population":{
+            "internal":[
+                "Will Byers",
+                "Mike, Dustin and Lucas (Sometimes)"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": null
+    }
+
+}
