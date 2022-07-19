@@ -1,0 +1,88 @@
+{
+    "id": 7,
+    "name": "Wheeler-house",
+
+    "pt_br":{
+        "name":"Casa Wheeler",
+        "summary": "A Casa Wheeler é a residência da Família Wheeler em Hawkins, Indiana. Ela está localizada na rua Maple Street, próximo a Casa dos Sinclair.", 
+        "location": "Maple Street,Hawkins, Indiana", 
+        "history": null,
+        "type": "Residência", 
+        "population":{
+          "Família Wheeler":[
+                "Karen Wheeler",
+                "Ted Wheeler",
+                "Nancy Wheeler",
+                "Mike Wheeler",
+                "Holly Wheeler"
+            ],
+            "Outros":[
+                "Eleven (Secretamente)"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null,  
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms":[
+            "Corredor de Baixo",
+            "Cozinha",
+            "Sala de Jantar",
+            "Sala de Estar",
+            "Porão",
+            "Banheiro do Porão",
+            "Quarto do Mike",
+            "Quarto da Nancy",
+            "Quarto da Holly",
+            "Quarto da Karen",
+            "Banheiro principal",
+            "Garagem"
+        ],
+        "employees": null,
+        "students": null,
+        "events": null
+    },
+    "en_us":{
+        "name":"House Wheeler",
+        "summary": "The Wheeler House is the Wheeler Family home in Hawkins, Indiana. It is located on Maple Street, near the Sinclair House.", 
+        "location": "Maple Street, Hawkins, Indiana", 
+        "history": null,
+        "type": "Residence", 
+        "population":{
+            "Wheeler Family":[
+                "Karen Wheeler",
+                "Ted Wheeler",
+                "Nancy Wheeler",
+                "Mike Wheeler",
+                "Holly Wheeler"
+            ],
+            "Others":[
+                "Eleven (Secretly)"
+            ]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null,  
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms":[
+            "Down Hall",
+            "Kitchen",
+            "Dining room",
+            "Living room",
+            "Basement",
+            "Bathroom in the Basement",
+            "Mike's Room",
+            "Nancy's Room",
+            "Holly's Room",
+            "Karen's Room",
+            "Main Bathroom",
+            "Garage"
+        ],
+        "employees": null,
+        "students": null,
+        "events": null
+    }
+
+}
