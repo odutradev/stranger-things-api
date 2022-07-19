@@ -7,29 +7,51 @@
         "message": "Invalid query parameters.",
         "statusCode": 400
     },
-    "character_limit": {
-        "message": "The character list contains only %%% elements.",
-        "statusCode": 400
-    },
-    "curisioty_limit": {
-        "message": "The curisioty list contains only %%% elements.",
-        "statusCode": 400
-    },
     "internal_error": {
         "message": "Internal error.",
         "statusCode": 500
     },
-    "character_not_found": {
-        "message":"Character not found.",
-        "statusCode": 404
+
+
+    
+    "curisioty_limit": {
+        "message": "The curisioty list contains only %%% elements.",
+        "statusCode": 400
     },
     "curisioty_not_found": {
         "message":"Curisioty not found.",
         "statusCode": 404
     },
+
+
+
+    "character_not_found": {
+        "message":"Character not found.",
+        "statusCode": 404
+    },
     "character_similarity": {
         "message":"Character not found, The most similar is %%%.",
         "statusCode": 404
+    },
+    "character_limit": {
+        "message": "The character list contains only %%% elements.",
+        "statusCode": 400
+    },
+
+
+
+    "location_not_found": {
+        "message":"Location not found.",
+        "statusCode": 404
+    },
+
+    "location_similarity": {
+        "message":"Location not found, The most similar is %%%.",
+        "statusCode": 404
+    },
+    "location_limit": {
+        "message": "The location list contains only %%% elements.",
+        "statusCode": 400
     }
 
 }
