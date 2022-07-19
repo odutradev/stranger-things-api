@@ -1,0 +1,44 @@
+{
+    "id": 3,
+    "name": "Kamchatka",
+
+    "pt_br":{
+        "name":"Kamchatka",
+        "summary": null, 
+        "location": null, 
+        "history":null,
+        "type": null, 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded":null, 
+        "curiosities":null, 
+        "behindTheScenes":null, 
+        "rules":null, 
+        "grades":null, 
+        "rooms":null,
+        "employees":null,
+        "students":null,
+        "events":null
+    },
+    "en_us":{
+        "name":"Kamchatka",
+        "summary": null, 
+        "location": null, 
+        "history":null,
+        "type": null, 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded":null, 
+        "curiosities":null, 
+        "behindTheScenes":null, 
+        "rules":null, 
+        "grades":null, 
+        "rooms":null,
+        "employees":null,
+        "students":null,
+        "events":null
+    }
+
+}
