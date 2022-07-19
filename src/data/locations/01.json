@@ -1,0 +1,280 @@
+{
+    "id": 1,
+    "name": "Hawkins",
+
+    "pt_br":{
+        "name": "Hawkins",
+        "summary": "Hawkins é uma cidade no Condado de Roane, no estado de Indiana.", 
+        "location": "Condado de Roane, Indiana, Estados Unidos", 
+        "history":"Hawkins era uma cidade tranquila. A última pessoa a ser relatada desaparecida antes de 1983 foi em 1923. Houve uma morte em 1943 onde um morador local Derek Hopper, que foi morto por um urso, apesar de moradores dizerem que foi por uma criatura peluda humanoide. Há suspeitas dele ter sido morto por Demogorgon Em novembro de 1983, durante as experiências no Laboratório Nacional Hawkins, um portão foi aberto para uma dimensão chamada de Mundo Invertido, permitindo que um monstro para entrar Hawkins. O monstro raptou os residentes de Hawkins e os trouxe para o Mundo Invertido. Entre suas vítimas estavam Will Byers, que foi trazido para casa depois de uma semana, e Barbara Holland, que foi morta no Mundo Invertido. As circunstâncias de seu desaparecimento foram cobertas pelos agentes do Laboratório Hawkins.",
+        "type": "Cidade", 
+        "population":{
+            "Família Byers":[
+                "Joyce Byers (anteriormente)",
+                "Jonathan Byers (anteriormente)",
+                "Will Byers (anteriormente)"
+            ],
+            "Família Wheeler":[
+                "Ted Wheeler",
+                "Karen Wheeler",
+                "Nancy Wheeler",
+                "Mike Wheeler",
+                "Holly Wheeler"
+            ],
+            "Família Hopper":[
+                "Jim Hopper (anteriormente)",
+                "Jane Hopper (anteriormente)"
+            ],
+            "Família Holland":[
+                "Sr. Holland",
+                "Sra. Holland",
+                "Barbara Holland † (falecida)"
+            ],
+            "Família Sinclair":[
+                "Sr. Sinclair",
+                "Sra. Sinclair",
+                "Lucas Sinclair",
+                "Erica Sinclair"
+            ],
+            "Familia Hargrove":[
+                "Billy Hargrove † (falecido)",
+                "Max Mayfield",
+                "Neil Hargrove",
+                "Susan Hargrove"
+            ],
+            "Família Henderson":[
+                "Claudia Henderson",
+                "Dustin Henderson"
+            ],
+            "Família Harrington":[
+                "Steve Harrington",
+                "Sr. e Sra. Harrington"
+            ],
+            "Família Holloway":[
+                "Tom Holloway † (falecido)",
+                "Janet Holloway † (falecida)",
+                "Heather Holloway † (falecida)"
+            ],
+            "Família Driscoll":[
+                "Doris Driscoll † (falecida)",
+                "Jack Driscoll † (falecido)"
+            ],
+            "Família Kline":[
+                "Larry Kline (ex-prefeito; encarcerado)",
+                "Winnie Kline"
+            ],
+            "Família Walsh":[
+                "Troy Walsh (anteriormente)",
+                "Sra. Walsh (anteriormente)"
+            ],
+            "outros":[
+                "Bob Newby † (falecido)",
+                "Robin Buckley",
+                "Benny Hammond † (falecido)",
+                "Oficial Powell",
+                "Oficial Callahan",
+                "Tommy Hagan",
+                "Carol Perkins",
+                "Nicole",
+                "Scott Clarke",
+                "Arthur Franco",
+                "Jeniffer",
+                "Sarah",
+                "Billie Jin",
+                "Axl",
+                "James Dante",
+                "Jen",
+                "Jennifer Hayes",
+                "Dale † (falecido)",
+                "Henry † (falecido)",
+                "Bruce Lowe † (falecido)" 
+            ]
+        }, 
+        "locationsIncluded":[
+            "Laboratório Nacional de Hawkins, divisão de U.S. Department of Energy (Departamento de Energia)",
+            "Delegacia de Polícia de Hawkins",
+            "Hotel Rose",
+            "Rock Show House",
+            "Hargrove Farm",
+            "Hospital de Hawkins",
+            "Tituba (rio)",
+            "Hawkins High School (Escola de Ensino Médio de Hawkins)",
+            "Hawkins Middle School (Escola de Ensino Fundamental de Hawkins",
+            "Etowah (rio)",
+            "Lago Jordan",
+            "Floresta Sombria",
+            "Quarry",
+            "Bradley's Big Buy (supermercado)",
+            "Hospital de Hawkins",
+            "Benny's Burgers",
+            "Casa dos Byers",
+            "Casa dos Wheelers",
+            "Casa dos Harrington",
+            "Casa dos Hargrove",
+            "Casa da familia Clark",
+            "Casa dos Sinclair",
+            "Biblioteca Pública",
+            "Melvald's General Store (Lit. Loja Geral da Melvald)",
+            "Radio Shack (Lit. Cabana do Radio)",
+            "Royal Furniture Co.",
+            "Hawk (cinema)",
+            "Soluções de Locação",
+            "Autoridade de Água e Esgoto de Hawkins",
+            "Coroner do condado de Roane",
+            "Hunting & Camping (loja) (Lit. Caça & Acampamento)",
+            "Hideaway (pub/balada) (Lit. Refúgio)",
+            "Mirkwood - Estrada perto da casa dos Byers que vai após o laboratório nacional de Hawkins, localizado onde Cornwallis e Kerley se encontram.",
+            "Cornwallis – Perto da casa dos Wheeler, continua para Kerley, onde ele vai para Mirkwood",
+            "Kerley – Continua em Cornwallis, onde vai para Mirkwood.",
+            "Elm and Cherry – Cruzando as ruas onde Mike e Dustin se encontrariam com Lucas.",
+            "Randolph Lane – Onde Benny's Burgers é localizado.",
+            "Randolph Road – Passa pelo Laboratório Nacional de Hawkins."
+        ], 
+        "curiosities":["Depois de Jonathan e Nancy saíram para a caça ao mostro, ele mostrou para ela um mapa pego de um diretório telefônico, onde ele tinha marcado locações do ataque do Monstro: Casa do Steve, lugar onde a moto de Will foi encontrada ea casa de Byers. O mapa também mostra os nomes de várias estradas em Hawkins, que eram provavelmente estradas principais."], 
+        "behindTheScenes":["Stranger Things foi filmado em Atlanta, Geórgia e áreas vizinhas. Uma praça da cidade de Jackson em Butts County foi usado como um local para o centro de Hawkins, e muitas lojas foram pintadas e estocadas com mercadorias vintage para filmagem."], 
+        "rules":null, 
+        "grades":null, 
+        "rooms":null,
+        "employees":null,
+        "students":null,
+        "events":null
+    },
+    "en_us":{
+        "name": "Hawkins",
+        "summary": "Hawkins is a town in Roane County, Indiana.", 
+        "location": "Roane County, Indiana, United States", 
+        "history":"Hawkins was a quiet town. The last person to be reported missing before 1983 was in 1923. There was a death in 1943 where a local resident Derek Hopper, who was killed by a bear, despite locals saying it was by a furry creature. In November 1983, during experiments at Hawkins National Laboratory, a gate was opened to a dimension called the Upside Down, allowing a monster to enter Hawkins. The monster kidnapped the residents of Hawkins. and brought them to the Upside Down. Among his victims were Will Byers, who was brought home after a week, and Barbara Holland, who was killed in the Upside Down. The circumstances of her disappearance were covered by agents at Hawkins Laboratory." ,
+        "type": "City", 
+        "population":{
+            "Byers Family":[
+                "Joyce Byers (formerly)",
+                "Jonathan Byers (formerly)",
+                "Will Byers (formerly)"
+            ],
+            "Wheeler Family":[
+                "Ted Wheeler",
+                "Karen Wheeler",
+                "Nancy Wheeler",
+                "Mike Wheeler",
+                "Holly Wheeler"
+            ],
+            "Hopper Family":[
+                "Jim Hopper (formerly)",
+                "Jane Hopper (formerly)"
+            ],
+            "Holland Family":[
+                "Mr Holland",
+                "Mrs Holland",
+                "Barbara Holland † (deceased)"
+            ],
+            "Sinclair Family":[
+                "Mr Sinclair",
+                "Mrs. Sinclair",
+                "Lucas Sinclair",
+                "Erica Sinclair"
+            ],
+            "Hargrove Family":[
+                "Billy Hargrove † (deceased)",
+                "Max Mayfield",
+                "Neil Hargrove",
+                "Susan Hargrove"
+            ],
+            "Henderson Family":[
+                "Claudia Henderson",
+                "Dustin Henderson"
+            ],
+            "Harrington Family":[
+                "Steve Harrington",
+                "Mr and Mrs Harrington"
+            ],
+            "Holloway Family":[
+                "Tom Holloway † (deceased)",
+                "Janet Holloway † (deceased)",
+                "Heather Holloway † (deceased)"
+            ],
+            "Driscoll Family":[
+                "Doris Driscoll † (deceased)",
+                "Jack Driscoll † (deceased)"
+            ],
+            "Kline Family":[
+                "Larry Kline (Former Mayor; Incarcerated)",
+                "Winnie Kline"
+            ],
+            "Walsh family":[
+                "Troy Walsh (formerly)",
+                "Mrs. Walsh (formerly)"
+            ],
+            "others":[
+                "Bob Newby † (deceased)",
+                "Robin Buckley",
+                "Benny Hammond † (deceased)",
+                "Officer Powell",
+                "Officer Callahan",
+                "Tommy Hagan",
+                "Carol Perkins",
+                "Nicole",
+                "Scott Clarke",
+                "Arthur Franco",
+                "Jeniffer",
+                "Sarah",
+                "Billie Jin",
+                "Axl",
+                "James Dante",
+                "Jen",
+                "Jennifer Hayes",
+                "Dale † (deceased)",
+                "Henry † (deceased)",
+                "Bruce Lowe † (deceased)"
+            ]
+        }, 
+        "locationsIncluded":[
+            "Hawkins National Laboratory, Division of the U.S. Department of Energy",
+            "Hawkins Police Station",
+            "Hotel Rose",
+            "Rock Show House",
+            "Hargrove Farm",
+            "Hawkins Hospital",
+            "Tituba (river)",
+            "Hawkins High School",
+            "Hawkins Middle School",
+            "Etowah (river)",
+            "Lake Jordan",
+            "Dark forest",
+            "Quarry",
+            "Bradley's Big Buy (Supermarket)",
+            "Hawkins Hospital",
+            "Benny's Burgers",
+            "House of the Byers",
+            "House of the Wheelers",
+            "Harrington House",
+            "Hargrove House",
+            "Clark family home",
+            "Sinclair House",
+            "Public Library",
+            "Melvald's General Store (Lit. Melvald's General Store)",
+            "Radio Shack (Lit. Radio Shack)",
+            "Royal Furniture Co.",
+            "Hawk (cinema)",
+            "Lease Solutions",
+            "Hawkins Water and Sewer Authority",
+            "Coroner of Roane County",
+            "Hunting & Camping (shop) (Lit. Hunting & Camping)",
+            "Hideaway (pub/club) (Lit. Refuge)",
+            "Mirkwood - Road near the Byers house that goes past Hawkins National Laboratory, located where Cornwallis and Kerley meet.",
+            "Cornwallis - Near Wheeler house, continues to Kerley, where he goes to Mirkwood",
+            "Kerley – Continues in Cornwallis, where it goes to Mirkwood.",
+            "Elm and Cherry – Crossing the streets where Mike and Dustin would meet Lucas.",
+            "Randolph Lane – Where Benny's Burgers is located.",
+            "Randolph Road - Passes by Hawkins National Laboratory."
+        ], 
+        "curiosities":["After Jonathan and Nancy left for the monster hunt, he showed her a map taken from a phone directory, where he had marked locations of the Monster's attack: Steve's House, the place where Will's motorcycle was found, and Byers. The map also shows the names of several roads in Hawkins, which were probably major roads."], 
+        "behindTheScenes":["Stranger Things foi filmado em Atlanta, Geórgia e áreas vizinhas. Uma praça da cidade de Jackson em Butts County foi usado como um local para o centro de Hawkins, e muitas lojas foram pintadas e estocadas com mercadorias vintage para filmagem."], 
+        "rules":null, 
+        "grades":null, 
+        "rooms":null,
+        "employees":null,
+        "students":null,
+        "events":null
+    }
+
+}
