@@ -1,0 +1,44 @@
+{
+    "id": 5,
+    "name": "Mirkwood",
+
+    "pt_br":{
+        "name":"Floresta das Trevas", 
+        "summary": "Floresta das Trevas", 
+        "location": "Intersecção entre Cornwallis e Kerley, Hawkins, Indiana", 
+        "history":null,
+        "type": "Estrada", 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes":["Em determinado momento da série, onde os três estão à procura de Will, um deles cita a Floresta das Trevas (Mirkwood), e o oficial Hopper os questiona, então Lucas fala, que é de “O Senhor dos Anéis”, e Dustin o corrige, dizendo que é de “O Hobbit”. Claro, mencionando os livros de J.R.R. Tolkien e não os filmes."], 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": ["Multirão em busca do Will"]
+    },
+    "en_us":{
+        "name": "Forest of Darkness", 
+        "summary": "", 
+        "location": "Intersection of Cornwallis and Kerley, Hawkins, Indiana", 
+        "history":null,
+        "type": "Road", 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes":["At a certain point in the series, where the three are looking for Will, one of them mentions the Mirkwood, and Officer Hopper questions them, then Lucas says, which is from 'The Lord of the Rings', and Dustin corrects it, saying it's from 'The Hobbit'. Of course, mentioning J.R.R. Tolkien's books and not the movies."], 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": ["Crowd in Search of Will"]
+    }
+
+}
