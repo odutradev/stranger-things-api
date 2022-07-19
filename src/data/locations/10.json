@@ -1,0 +1,74 @@
+{
+    "id": 10,
+    "name": "Hawkins-middle-school",
+
+    "pt_br":{
+        "name":"Hawkins Middle School",
+        "summary": "Hawkins Middle School (ou Escola de Ensino Fundamental de Hawkins) é uma escola fundamental na cidade de Hawkins no distrito escolar do condado de Roane. Ela está localizado ao lado de Hawkins High School. Sua equipe de futebol é o Cubs (um nome relacionado a filhote, no literal, seria Tigrinhos), correspondente à equipe do ensino médio, os Tigers (Tigres). A escola também é o anfitrião de uma feira anual de ciências.Mike Wheeler, Will Byers, Dustin Henderson e Lucas Sinclair estudam nesta escola.  A escola realizou um memorial para Will Byers no ginásio após sua morte presumida.", 
+        "location": "Hawkins, Indiana, EUA", 
+        "history": null,
+        "type": "Escola de Ensino Fundamental", 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes":["O local de filmagem real é o Patrick Henry High School, localizado em 109 South Lee Street em Stockbridge, Geórgia. O mesmo local foi usado para Hawkins High School."], 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees":[
+            "Russell Coleman (diretor)",
+            "Scott Clarke  (professor de ciências)",
+            "Phyllis  (merendeira)"
+        ],
+        "students":[
+            "Mike Wheeler",
+            "Will Byers",
+            "Lucas Sinclair",
+            "Dustin Henderson",
+            "Troy",
+            "James",
+            "Jennifer Hayes"
+        ],
+        "events":[
+            "Baile do Floco de Neve",
+            "Feira Regional de Ciência de Hawkins"
+        ]
+    },
+    "en_us":{
+        "name":"Hawkins Middle School",
+        "summary": "Hawkins Middle School (or Hawkins Elementary School) is an elementary school in the town of Hawkins in the Roane County School District. It is located adjacent to Hawkins High School. Its football team is the Cubs (a puppy-related name, literally, would be Tigers), corresponding to the high school team, the Tigers. The school also hosts an annual science fair.Mike Wheeler, Will Byers, Dustin Henderson and Lucas Sinclair attend this school. The school held a memorial for Will Byers in the gym after his presumed death.",
+        "location": "Hawkins, Indiana, USA",
+        "history": null,
+        "type": "Elementary School",
+        "population":{
+            "":[]
+        },
+        "locationsIncluded": null,
+        "curiosities": null,
+        "behindTheScenes":["The actual filming location is Patrick Henry High School, located at 109 South Lee Street in Stockbridge, Georgia. The same location was used for Hawkins High School."],
+        "rules": null,
+        "grades": null,
+        "rooms": null,
+        "employees":[
+            "Russell Coleman (Director)",
+            "Scott Clarke (Science Teacher)",
+            "Phyllis (Lunch Maid)"
+        ],
+        "students":[
+            "Mike Wheeler",
+            "Will Byers",
+            "Lucas Sinclair",
+            "Dustin Henderson",
+            "Troy",
+            "James",
+            "Jennifer Hayes"
+        ],
+        "events":[
+            "Snowflake Ball",
+            "Hawkins Regional Science Fair"
+        ]
+    }
+
+}
