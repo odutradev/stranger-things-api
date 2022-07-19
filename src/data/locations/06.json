@@ -1,0 +1,80 @@
+{
+    "id": 6,
+    "name": "Byers-house",
+
+    "pt_br":{
+        "name":"Casa Byers",
+        "summary": "Uma casa em Hawkins , Indiana foi a antiga residência de Joyce Byers, Jonathan Byers, Will Byers, Lonnie Byers (que se mudou após o divórcio de Joyce) e Eleven . A casa está um pouco degradada e em poucas condições.", 
+        "location": "Hawkins, Indiana", 
+        "history":"Joyce e Lonnie compraram (ou herdaram) a casa algum tempo antes de 1981. O casal acabou se divorciando em 1982, com Lonnie se mudando para Indianápolis.",
+        "type": "Residência", 
+        "population":{
+            "interna":[
+                "Joyce Byers (anteriormente)",
+                "Jonathan Byers (anteriormente)",
+                "Will Byers (anteriormente)",
+                "Eleven (anteriormente)",
+                "Lonnie Byers (anteriormente)"
+            ]
+        }, 
+        "locationsIncluded":[
+            "Cabana",
+            "Casinha de cachorro"
+        ], 
+        "curiosities":null, 
+        "behindTheScenes":null, 
+        "rules":null, 
+        "grades":null, 
+        "rooms":[
+            "Sala de estar",
+            "Cozinha / sala de jantar",
+            "Quarto de Will",
+            "Quarto de Jonathan",
+            "Quarto de Joyce",
+            "Banheiro",
+            "Corredor",
+            "Alpendre (levando ao jardim)"
+        ],
+        "employees":null,
+        "students":null,
+        "events":null
+    },
+    "en_us":{
+        "name":"Byers House",
+        "summary": "A house in Hawkins, Indiana was the former residence of Joyce Byers, Jonathan Byers, Will Byers, Lonnie Byers (who moved in after Joyce's divorce) and Eleven. The house is a bit run down and in poor condition.", 
+        "location": "Hawkins, Indiana", 
+        "history":"Joyce and Lonnie bought (or inherited) the house sometime before 1981. The couple eventually divorced in 1982, with Lonnie moving to Indianapolis.",
+        "type": "Residence", 
+        "population":{
+            "internal":[
+                "Joyce Byers (formerly)",
+                "Jonathan Byers (formerly)",
+                "Will Byers (formerly)",
+                "Eleven (formerly)",
+                "Lonnie Byers (formerly)"
+            ]
+        }, 
+        "locationsIncluded":[
+            "hut",
+            "Doghouse"
+        ], 
+        "curiosities":null, 
+        "behindTheScenes":null, 
+        "rules":null, 
+        "grades":null, 
+        "rooms":[
+            "Living room",
+            "Kitchen / Dining Room",
+            "Will's Room",
+            "Jonathan's Room",
+            "Joyce's Room",
+            "WC",
+            "Hall",
+            "Porch (leading to the garden)"
+        ],
+        "employees":null,
+        "students":null,
+        "events":null
+    }
+
+}
