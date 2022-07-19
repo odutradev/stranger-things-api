@@ -1,0 +1,44 @@
+{
+    "id": 4,
+    "name": "Hawkins-national-laboratory",
+
+    "pt_br":{
+        "name":"Laboratório Nacional de Hawkins",
+        "summary": null, 
+        "location": null, 
+        "history":null,
+        "type": null, 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": null
+    },
+    "en_us":{
+        "name":"Hawkins National Laboratory",
+        "summary": null, 
+        "location": null, 
+        "history":null,
+        "type": null, 
+        "population":{
+            "":[]
+        }, 
+        "locationsIncluded": null, 
+        "curiosities": null, 
+        "behindTheScenes": null, 
+        "rules": null, 
+        "grades": null, 
+        "rooms": null,
+        "employees": null,
+        "students": null,
+        "events": null
+    }
+
+}
