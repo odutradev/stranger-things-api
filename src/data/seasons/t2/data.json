@@ -1,0 +1,278 @@
+{
+    "id": 2,
+    "names": ["s2", "t2", "season-2", "temporada-2", "2", "02"],
+
+    "pt_br":{
+        "synopsis":"A segunda temporada de Stranger Things foi anunciada pela Netflix em 31 de agosto de 2016. Matt Duffer e Ross Duffer continuam como showrunners e produtores executivos. A segunda temporada estreou em 27 de outubro de 2017, estrelada por Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Natalia Dyer, Charlie Heaton, Joe Keery, Dacre Montgomery, Cara Buono, Sean Astin e Paul Reiser, com Matthew Modine, Aimee Mullins, Amy Semmetz, Linnea Berthelsen, Brett Gelman e Priah Ferguson em papéis recorrentes. As performances de Harbour, Brown, Schnapp, Keery e Astin foram elogiadas pela crítica.",
+        "numberOfEpisodes": 9,
+        "launch":"27 de outubro de 2017",
+        "countryOfOrigin":"Estados Unidos",
+        "premise":null,
+        "cast":{
+            "principal":[
+                "Winona Ryder como Joyce Byers",
+                "David Harbour como Jim Hopper",
+                "Finn Wolfhard como Mike Wheeler",
+                "Millie Bobby Brown como Jane Ives / Onze",
+                "Gaten Matarazzo como Dustin Henderson",
+                "Caleb McLaughlin como Lucas Sinclair",
+                "Noah Schnapp como Will Byers",
+                "Sadie Sink como Maxine 'Max' Mayfield",
+                "Natalia Dyer como Nancy Wheeler",
+                "Charlie Heaton como Jonathan Byers",
+                "Joe Keery como Steve Harrington",
+                "Dacre Montgomery como Billy Hargrove",
+                "Cara Buono como Karen Wheeler",
+                "Sean Astin como Bob Newby",
+                "Paul Reiser como Sam Owens"
+            ],
+            "recorrente":[
+                "Matthew Modine como Martin Brenner",
+                "Joe Chrest como Ted Wheeler",
+                "Rob Morgan como Powell",
+                "John Paul Reynolds como Callahan",
+                "Randall P. Havens como Scott Clarke",
+                "Tinsley Price / Anniston Price como Holly Wheeler",
+                "Susan Shalhoub Larkin como Florence",
+                "Cynthia Barrett como Marsha Holland",
+                "Aimee Mullins como Terry Ives",
+                "Amy Semmetz como Becky Ives",
+                "Linnea Berthelsen como Kali Prasad / Oito",
+                "Catherine Curtin como Claudia Henderson",
+                "Brett Gelman como Murray Bauman",
+                "Priah Ferguson como Erica Sinclair",
+                "Matty Cardarople como Keith",
+                "Will Chase como Neil Hargrove",
+                "Jennifer Marshall como Susan Hargrove",
+                "James Landry Hébert como Axel",
+                "Anna Jacoby-Heron como Dottie",
+                "Pruitt Taylor Vince como Ray",
+                "Abigail Cowen como Vicki",
+                "Madelyn Cline como Tina"
+            ]
+        },
+        "production":{
+            "principal":"A Netflix confirmou a segunda temporada de Stranger Things em 31 de agosto de 2016. Matt Duffer e Ross Duffer continuam como showrunners e produtores executivos, e alguns atores foram confirmados para o elenco. Dentre eles, está a atriz Sadie Sink, que interpreta Maxine 'Max' Mayfield, e o ator Dacre Montgomery, que interpreta Billy Hargrove.A segunda temporada estreou em 27 de outubro de 2017."
+        },
+        "reception":null,
+        "episodes":[
+            {
+                "id": 9,
+                "episodeNumber": 1,
+                "title": "Capítulo Um: Madmax",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Quase um ano após os eventos do desaparecimento de Will, uma menina psíquica com uma tatuagem idêntica à de Onze, marcando-a como '08', está trabalhando como parte de uma quadrilha criminosa em Pittsburgh. De volta à Hawkins, Will, Mike, Dustin e Lucas conhecem uma nova garota na escola, Maxine ('Max'), que imediatamente percebe o interesse de Dustin e Lucas, enquanto seu irmão mais velho, Billy, contraria Steve. Mike e Nancy ainda estão lidando com as perdas de Onze e Barb, respectivamente. Will esteve passando por 'episódios', alucinações do Mundo Invertido, que apresentam visões de uma enorme criatura com tentáculos. Joyce e Hopper levam Will para ser visto no laboratório pelo novo cientista, o Dr. Owens. Mais tarde, Hopper vai para casa em uma cabana na floresta, onde mora com Onze, que é revelada ainda estar viva. "
+            },
+            {
+                "id": 10,
+                "episodeNumber": 2,
+                "title": "Capítulo Dois: Gostosuras ou Travessuras, Aberração",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Em flashbacks, Onze consegue escapar do Mundo Invertido, mas é forçada a permanecer escondida na floresta para evitar os agentes do governo. No presente, as crianças se preparam para o Halloween. Onze pergunta se pode sair para pedir doces, mas Hopper insiste em dizer que ela precisa permanecer escondida. Hopper investiga quando as plantações de abóbora de toda a cidade começam a apodrecer. Nancy quer contar para os pais de Barb a verdade sobre a morte dela, mas Steve diz que isso não é uma boa ideia, pois os agentes do governo podem vir atrás deles se eles contarem a verdade para alguém. Então, eles participam de uma festa de Halloween, onde Nancy fica bêbada e magoa Steve, fazendo com que ele vá embora. Jonathan leva Nancy para casa. Mike, Will, Dustin e Lucas saem para pedir doces e, mais tarde, Max se junta a eles. Durante a noite, Will tem outro episódio e conta para Mike sobre suas visões. Mike admite que ainda está tentando entrar em contato com Onze. Onze tenta entrar em contato com Mike usando seus poderes, mas não consegue. Dustin volta para casa depois da noite de Halloween, e encontra uma criatura estranha em sua lata de lixo. "
+            },
+            {
+                "id": 11,
+                "episodeNumber": 3,
+                "title": "Capítulo Três: O Girino",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "Justin Doble",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Em flashbacks, Hopper encontra Onze na floresta e transforma a cabine de caça de seu avô em um lugar para ela morar. No presente, o namorado de Joyce, Bob, encoraja Will a enfrentar seus medos. Nancy convence Jonathan a ajudá-la em uma missão para contar a verdade para os pais de Barb. Hopper pede para o Dr. Owens investigar os incidentes de podridão da plantação de abóboras. Dustin tenta aprender mais sobre a estranha criatura que encontrou, um animal pequeno e parecido com uma lesma, que ele dá o nome de D'Artagnan ('Dart') e mostra para seus amigos na escola. Will descreve suas alucinações, e eles concluem que Dart é do Mundo Invertido. Onze sai da cabana para procurar Mike; ela o vê discutindo com Max e acha que os dois estão flertando. Joyce descobre uma imagem da visão de Will na câmera de vídeo que Will estava carregando enquanto pedia doces no Halloween. Dart foge; Will o encontra, o que desencadeia outra alucinação. Will segue o conselho de Bob e confronta o monstro da sombra, mas o monstro enfia um tentáculo dentro de sua garganta. "
+            },
+            {
+                "id": 12,
+                "episodeNumber": 4,
+                "title": "Capítulo Quatro: Will, o Sábio",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "Paul Dichter",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Will acorda, para a preocupação de Joyce e seus amigos. Joyce leva Will para casa, mas o encontra agindo de modo estranho, e ele começa a desenhar rabiscos em várias páginas. Joyce chama Hopper para ajudar e, juntos, eles descobrem que os rabiscos se alinham, formando uma grande rede de túneis. Hopper reconhece uma área e sai sem contar para Joyce. Nancy e Jonathan são pegos por agentes de laboratório disfarçados quando tentam entrar em contato com a mãe de Barb. O Dr. Owens lhes mostra o portal para o Mundo Invertido, admite que Barb morreu nele, e que querem impedir que outros governos descubram sobre ele. Quando são liberados, Nancy revela que gravou a confissão de Owens. Lucas tenta se aproximar de Max, mas Billy avisa para Lucas ficar longe. Dustin descobre que Dart fugiu de sua gaiola e devorou ​​seu gato de estimação e que ele é uma versão bebê do monstro Demogorgon. Onze, após discutir com Hopper, encontra a pesquisa de Hopper sobre sua mãe biológica, Terry Ives, e tenta entrar em contato com Terry através de seus poderes. Hopper cava um dos campos apodrecidos e encontra um túnel que leva ao Mundo Invertido. "
+            },
+            {
+                "id": 13,
+                "episodeNumber": 5,
+                "title": "Capítulo Cinco: Dig Dug",
+                "directedBy": "Andrew Stanton",
+                "writtenBy": "Jessie Nickson-Lopez",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Hopper fica preso nos túneis e desmaia. Will tem uma visão do estado de Hopper, mas Joyce não consegue descobrir seu significado; então, ela recruta Bob para ajudar. Ele identifica que a rede é um mapa da área subterrânea de Hawkins, que é onde Hopper ficou preso. Nancy e Jonathan visitam o teórico da conspiração local, Murray, para conseguir sua ajuda. Murray sabe que o público não aceitará a história como ela realmente é, mas sugere diluir a história para torná-la mais credível, colocar a culpa da morte de Barb nas toxinas do laboratório. Lucas revela em segredo os eventos do ano anterior para Max para ganhar seu respeito, mas ela o rejeita. Dustin prende Dart em seu porão e faz com que Steve o ajude a capturá-lo novamente. Onze parte para encontrar Terry Ives, que é catatônica e está sendo cuidada por sua irmã. Onze consegue se comunicar com Terry, recebendo suas lembranças de quando ela tentou resgatá-la no Laboratório de Hawkins antes de ser sujeita a terapia de choque. Onze descobre que havia outra garota sendo treinada como ela. Joyce, Bob, Will e Mike conseguem resgatar Hopper, embora alguns funcionários do laboratório cheguem e incendeiem os túneis, fazendo com que Will tenha um ataque de agonia. "
+            },
+            {
+                "id": 14,
+                "episodeNumber": 6,
+                "title": "Capítulo Seis: O Espião",
+                "directedBy": "Andrew Stanton",
+                "writtenBy": "Kate Trefry",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Will é levado ao laboratório e apresenta perda de memória. O Dr. Owens especula que o monstro de sombra é uma espécie de vírus que infectou Will, e que espalhou-se ao seu cérebro; danificar os túneis pode ser prejudicial a Will. Nancy e Jonathan passam a noite na casa de Murray e admitem sentirem-se atraídos um pelo outro, então voltam à casa dos Byers e se deparam com os desenhos de Will. Dustin contata Lucas, e os dois, junto com Max e Steve, tentam armar uma armadilha para atrair Dart ao ferro velho. Lá, Max desabafa para Lucas, explicando que a atitude de seu irmão é resultado da separação dos seus pais, e que Billy estava infeliz com a situação. Os quatro encontram Dart mas descobrem que ele é apenas um em um rebanho de outros monstros como ele, e ficam cercados em um ônibus até que o rebanho corre para outro lugar repentinamente. No laboratório, Will descobre uma localização no mapa que os monstros querem evitar, próximo ao laboratório. Owens manda um time para investigar, mas é uma armadilha; o time é atacado pelos monstros, que vão, na sequência, para o laboratório. Eles se dão conta que o monstro manipulou Will para fazer a armadilha. "
+            },
+            {
+                "id": 15,
+                "episodeNumber": 7,
+                "title": "Capítulo Sete: A Irmã Perdida",
+                "directedBy": "Rebecca Thomas",
+                "writtenBy": "Justin Doble",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Onze vai para Chicago a fim de encontrar a outra garota das memórias de Terry. Lá, Onze encontra Kali, a garota com superpoderes de Pittsburgh, junto com o resto de sua gangue. As duas se reconectam, e Kali mostra a Onze as suas habilidades e como eles se vingam de antigos agentes do laboratório de Hawkins com a ajuda da gangue. Kali ajuda Onze a concentrar seus poderes através de sua raiva. Onze se junta à gangue e eles atacam Ray, o técnico do laboratório que aplicou a terapia de choque a Terry. Ray diz que o Dr Brenner ainda vive, ao que Kali tenta convencer Onze a matá-lo, mas Onze se recusa quando descobre que Ray tem filhas. Eles fogem para a base quando a polícia chega, e Kali insiste que Onze vingue-se dos agentes, ou deixe a gangue. Onze tem uma visão de Mike e Hopper no laboratório e em apuros, e decide voltar para Hawkins, enquanto que Kali e sua gangue fogem da polícia que chega ao seu esconderijo. "
+            },
+            {
+                "id": 16,
+                "episodeNumber": 8,
+                "title": "Capítulo Oito: O Devorador de Mentes",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "O rebanho de monstros toma conta do laboratório, matando muitos. Mike convence Joyce a sedar Will, impedindo que as criaturas fiquem sabendo de sua localização. Mike, Will, Joyce, Hopper, Bob e Owens estão presos na sala de segurança do laboratório, e quando a energia elétrica falha, Bob se voluntaria a trocar os disjuntores para que eles possam abrir as portas para escapar. Owens fica no laboratório para guiar o grupo através das câmeras de segurança. Bob é morto pelos monstros enquanto os outros escapam. Eles reagrupam-se com Nancy, Jonathan, Steve, Dustin, Lucas e Max, que vieram ao laboratório. O grupo percebe que o monstro de sombras controla o rebanho e que matando-o acabam com sua influência. Eles amarram Will e redecoram o local para que o monstro não saiba onde eles estão. Joyce e Mike conseguem fazer com que Will se comunique com eles em código morse, a mensagem sendo 'fechem portão'. De repente, o telefone toca, e o monstro descobre a localização deles. Eles formam uma barricada enquanto o rebanho de monstros se aproxima. "
+            },
+            {
+                "id": 17,
+                "episodeNumber": 9,
+                "title": "Capítulo Nove: O Portal",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "27 de outubro de 2017",
+                "synopsis": "Onze chega na casa dos Byers e livra-os do rebanho de monstros. Após uma breve reunião, eles formam um plano para fechar o portão para o outro mundo. Hopper e Onze vão para o laboratório fechar o portão, enquanto que Jonathan, Nancy, e Joyce exorcizam o monstro que estava em Will aquecendo-o ao extremo. Mike, Dustin, Lucas, Steve e Max planejam entrar nos túneis para atrair o rebanho para longe do laboratório. Steve se recusa a ajudar inicialmente. O pai de Billy manda-o procurar Max, em sua busca ele encontra-a com Steve e luta com ele. Eventualmente Max derruba seu irmão, e Steve concorda em ajudá-los. As crianças vão para os túneis realizar seu plano, mas são encurralados por Dart. Dustin acalma Dart por tempo o suficiente para o grupo escapar. Onze descarrega toda sua raiva e consegue fechar o portal, matando todos os monstros. Um mês depois, o laboratório foi fechado, um funeral foi feito para Barb, e Dr. Owens dá a Hopper um certificado de nascimento. Os estudantes vão ao baile de inverno da escola, Onze e Mike se beijam bem como Lucas e Max, sem saber que, no outro mundo, o monstro continua vivo e observa a escola. "
+            }
+        ]
+    },
+    "en_us":{
+        "synopsis": "The second season of Stranger Things was announced by Netflix on August 31, 2016. Matt Duffer and Ross Duffer continue as showrunners and executive producers. The second season premiered on October 27, 2017, starring Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Natalia Dyer, Charlie Heaton, Joe Keery, Dacre Montgomery, Cara Buono, Sean Astin and Paul Reiser, with Matthew Modine, Aimee Mullins, Amy Semmetz, Linnea Berthelsen, Brett Gelman and Priah Ferguson in recurring roles. The performances by Harbour, Brown, Schnapp, Keery and Astin were critically praised.",
+        "numberOfEpisodes": 9,
+        "launch": "October 27, 2017",
+        "countryOfOrigin": "United States",
+        "premise":null,
+        "cast":{
+            "main":[
+                "Winona Ryder as Joyce Byers",
+                "David Harbor as Jim Hopper",
+                "Finn Wolfhard as Mike Wheeler",
+                "Millie Bobby Brown as Jane Ives / Eleven",
+                "Gaten Matarazzo as Dustin Henderson",
+                "Caleb McLaughlin as Lucas Sinclair",
+                "Noah Schnapp as Will Byers",
+                "Sadie Sink as Maxine 'Max' Mayfield",
+                "Natalia Dyer as Nancy Wheeler",
+                "Charlie Heaton as Jonathan Byers.",
+                "Joe Keery as Steve Harrington.",
+                "Dacre Montgomery as Billy Hargrove.",
+                "Cara Buono as Karen Wheeler",
+                "Sean Astin as Bob Newby",
+                "Paul Reiser as Sam Owens"
+            ],
+            "recurrent":[
+                "Matthew Modine as Martin Brenner",
+                "Joe Chrest as Ted Wheeler",
+                "Rob Morgan as Powell",
+                "John Paul Reynolds as Callahan",
+                "Randall P. Havens as Scott Clarke.",
+                "Tinsley Price / Anniston Price as Holly Wheeler",
+                "Susan Shalhoub Larkin as Florence",
+                "Cynthia Barrett as Marsha Holland",
+                "Aimee Mullins as Terry Ives",
+                "Amy Semmetz as Becky Ives.",
+                "Linnea Berthelsen as Kali Prasad / Eight",
+                "Catherine Curtin as Claudia Henderson",
+                "Brett Gelman as Murray Bauman.",
+                "Priah Ferguson as Erica Sinclair",
+                "Matty Cardarople as Keith",
+                "Will Chase as Neil Hargrove",
+                "Jennifer Marshall as Susan Hargrove",
+                "James Landry Hébert as Axel",
+                "Anna Jacoby-Heron as Dottie",
+                "Pruitt Taylor Vince as Ray",
+                "Abigail Cowen as Vicki",
+                "Madelyn Cline as Tina"
+            ]
+        },
+        "production":{
+            "main":["Netflix has confirmed the second season of Stranger Things on August 31, 2016. Matt Duffer and Ross Duffer are continuing as showrunners and executive producers, and some actors have been confirmed for the cast. Among them is actress Sadie Sink, who plays Maxine 'Max' Mayfield, and actor Dacre Montgomery, who plays Billy Hargrove.The second season premiered on October 27, 2017."]
+        },
+        "reception":null,
+        "episodes":[
+            {
+                "id": 9,
+                "episodeNumber": 1,
+                "title": "Chapter One: Madmax",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "October 27, 2017",
+                "synopsis": "Nearly a year after the events of Will's disappearance, a psychic girl with a tattoo identical to Eleven's, marking her as '08', is working as part of a criminal gang in Pittsburgh. Back in Hawkins, Will, Mike, Dustin and Lucas meet a new girl at school, Maxine ('Max'), who immediately catches the interest of Dustin and Lucas, while her older brother Billy thwarts Steve. Mike and Nancy are still dealing with the losses of Eleven and Barb, respectively. Will has been experiencing 'episodes', hallucinations from the Inverted World, which feature visions of a huge creature with tentacles. Joyce and Hopper take Will to be seen in the lab by the new scientist, Dr. Owens. Later, Hopper goes home to a cabin in the woods, where he lives with Eleven, who is revealed to still be alive. "
+            },
+            {
+                "id": 10,
+                "episodeNumber": 2,
+                "title": "Chapter Two: Trick-or-Treating, Freak",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "October 27, 2017",
+                "synopsis": "In flashbacks, Eleven manages to escape the Inverted World, but is forced to remain hidden in the forest to avoid government agents. In the present, the children are preparing for Halloween. Eleven asks if she can go out trick-or-treating, but Hopper insists that she must remain hidden. Hopper investigates when the pumpkin crops throughout the town begin to rot. Nancy wants to tell Barb's parents the truth about her death, but Steve says that's not a good idea because government agents might come after them if they tell anyone the truth. They then attend a Halloween party, where Nancy gets drunk and hurts Steve, causing him to leave. Jonathan takes Nancy home. Mike, Will, Dustin, and Lucas go out trick-or-treating, and later Max joins them. During the night, Will has another episode and tells Mike about his visions. Mike admits that he is still trying to get in touch with Eleven. Eleven tries to contact Mike using his powers, but is unsuccessful. Dustin returns home after Halloween night, and finds a strange creature in his trash can. "
+            },
+            {
+                "id": 11,
+                "episodeNumber": 3,
+                "title": "Chapter Three: The Tadpole",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "Justin Doble",
+                "launch": "October 27, 2017",
+                "synopsis": "In flashbacks, Hopper finds Eleven in the woods and turns his grandfather's hunting cabin into a place for her to live. In the present, Joyce's boyfriend Bob encourages Will to face his fears. Nancy convinces Jonathan to help her on a mission to tell Barb's parents the truth. Hopper asks Dr. Owens to investigate the incidents of rot in the pumpkin patch. Dustin tries to learn more about the strange creature he has found, a small, slug-like animal, which he names D'Artagnan ('Dart') and shows to his friends at school. Will describes his hallucinations, and they conclude that Dart is from the Inverted World. Eleven leaves the cabin to look for Mike; she sees him arguing with Max and thinks the two are flirting. Joyce discovers an image of Will's vision on the video camera Will was carrying while trick-or-treating on Halloween. Dart runs away; Will finds him, which triggers another hallucination. Will takes Bob's advice and confronts the shadow monster, but the monster shoves a tentacle down his throat. "
+            },
+            {
+                "id": 12,
+                "episodeNumber": 4,
+                "title": "Chapter Four: Will the Wise",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "Paul Dichter",
+                "launch": "October 27, 2017",
+                "synopsis": "Will wakes up, much to the concern of Joyce and his friends. Joyce takes Will home, but finds him acting strangely, and he begins to draw doodles on several pages. Joyce calls Hopper to help, and together they discover that the doodles line up, forming a large network of tunnels. Hopper recognizes one area and leaves without telling Joyce. Nancy and Jonathan are caught by undercover lab agents when they try to contact Barb's mother. Dr. Owens shows them the portal to the Inverted World, admits that Barb died in it, and that they want to keep other governments from finding out about it. When they are released, Nancy reveals that she recorded Owens' confession. Lucas tries to get close to Max, but Billy warns Lucas to stay away. Dustin discovers that Dart has escaped from his cage and devoured his pet cat, and that he is a baby version of the Demogorgon monster. Eleven, after arguing with Hopper, finds Hopper's research on his birth mother, Terry Ives, and tries to contact Terry through his powers. Hopper digs up one of the rotting fields and finds a tunnel that leads to the Inverted World. "
+            },
+            {
+                "id": 13,
+                "episodeNumber": 5,
+                "title": "Chapter Five: Dig Dug",
+                "writtenBy": "Jessie Nickson-Lopez",
+                "launch": "October 27, 2017",
+                "synopsis": "Hopper gets trapped in the tunnels and passes out. Will has a vision of Hopper's condition, but Joyce cannot figure out its significance; so she recruits Bob to help. He identifies that the network is a map of the underground area of Hawkins, which is where Hopper was trapped. Nancy and Jonathan visit the local conspiracy theorist, Murray, to get his help. Murray knows that the public will not accept the story as it really is, but suggests watering down the story to make it more believable, put the blame for Barb's death on the toxins in the lab. Lucas secretly reveals the events of the previous year to Max to gain her respect, but she rejects him. Dustin traps Dart in his basement and gets Steve to help him capture him again. Eleven sets off to find Terry Ives, who is catatonic and being cared for by her sister. Eleven manages to communicate with Terry, receiving her memories of when she tried to rescue her at the Hawkins Laboratory before being subjected to shock therapy. Eleven discovers that there was another girl being trained as her. Joyce, Bob, Will and Mike manage to rescue Hopper, although some Lab employees arrive and set fire to the tunnels, causing Will to have a fit of agony. "
+            },
+            {
+                "id": 14,
+                "episodeNumber": 6,
+                "title": "Chapter Six: The Spy",
+                "directedBy": "Andrew Stanton",
+                "writtenBy": "Kate Trefry",
+                "launch": "October 27, 2017",
+                "synopsis": "Will is taken to the lab and presents with memory loss. Dr. Owens speculates that the shadow monster is some sort of virus that has infected Will, and has spread to his brain; damaging the tunnels could be harmful to Will. Nancy and Jonathan spend the night at Murray's house and admit to being attracted to each other, then return to the Byers' house and come across Will's drawings. Dustin contacts Lucas, and the two of them, along with Max and Steve, try to set a trap to lure Dart to the junkyard. There, Max vents to Lucas, explaining that his brother's attitude is a result of his parents' separation, and that Billy was unhappy with the situation. The four find Dart but discover that he is only one in a herd of other monsters like him, and they are surrounded in a bus until the herd suddenly runs somewhere else. At the lab, Will discovers a location on the map that the monsters want to avoid, near the lab. Owens sends a team to investigate, but it is a trap; the team is attacked by the monsters, who then head for the lab. They realize that the monster has manipulated Will into making the trap. "
+            },
+            {
+                "id": 15,
+                "episodeNumber": 7,
+                "title": "Chapter Seven: The Lost Sister",
+                "directedBy": "Rebecca Thomas",
+                "writtenBy": "Justin Doble",
+                "launch": "October 27, 2017",
+                "synopsis": "Eleven goes to Chicago in order to find the other girl from Terry's memories. There, Eleven meets Kali, the girl with superpowers from Pittsburgh, along with the rest of her gang. The two reconnect, and Kali shows Eleven her abilities and how they get revenge on former Hawkins lab agents with the help of the gang. Kali helps Eleven focus her powers through her anger. Eleven joins the gang and they attack Ray, the lab technician who applied the shock therapy to Terry. Ray says that Dr Brenner still lives, to which Kali tries to convince Eleven to kill him, but Eleven refuses when he finds out that Ray has daughters. They flee to the base when the police arrive, and Kali insists that Eleven take revenge on the officers, or leave the gang. Eleven has a vision of Mike and Hopper in the lab and in trouble, and decides to return to Hawkins, while Kali and her gang escape the police who arrive at their hideout. "
+            },
+            {
+                "id": 16,
+                "episodeNumber": 8,
+                "title": "Chapter Eight: The Mind Eater",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "October 27, 2017",
+                "synopsis": "The herd of monsters takes over the lab, killing many. Mike convinces Joyce to sedate Will, preventing the creatures from learning of his location. Mike, Will, Joyce, Hopper, Bob and Owens are trapped in the lab's security room, and when the power fails, Bob volunteers to switch the breakers so they can open the doors to escape. Owens stays in the lab to guide the group through the security cameras. Bob is killed by the monsters while the others escape. They regroup with Nancy, Jonathan, Steve, Dustin, Lucas and Max, who have come to the lab. The group realizes that the shadow monster controls the herd and that killing him ends his influence. They tie Will up and redecorate the place so that the monster doesn't know where they are. Joyce and Mike manage to get Will to communicate with them in morse code, the message being 'close gate'. Suddenly, the phone rings, and the monster discovers their location. They form a barricade as the monster herd approaches. "
+            },
+            {
+                "id": 17,
+                "episodeNumber": 9,
+                "title": "Chapter Nine: The Portal",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "October 27, 2017",
+                "synopsis": "Eleven arrives at the Byers' home and rids them of the herd of monsters. After a brief meeting, they form a plan to close the gate to the other world. Hopper and Eleven go to the lab to close the gate, while Jonathan, Nancy, and Joyce exorcise the monster that was in Will by warming him to the extreme. Mike, Dustin, Lucas, Steve, and Max plan to enter the tunnels to lure the herd away from the lab. Steve refuses to help initially. Billy's father sends him to find Max, in his search he finds her with Steve and fights with him. Eventually Max knocks his brother out, and Steve agrees to help them. The children go into the tunnels to carry out their plan, but are cornered by Dart. Dustin calms Dart down long enough for the group to escape. Eleven takes out all his anger and manages to close the portal, killing all the monsters. A month later, the lab is closed, a funeral is held for Barb, and Dr. Owens gives Hopper a birth certificate. The students go to the school winter dance, Eleven and Mike kiss as well as Lucas and Max, unaware that in the other world, the monster is still alive and watching the school. "
+            }
+        ]
+    }
+}

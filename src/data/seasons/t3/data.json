@@ -1,0 +1,257 @@
+{
+    "id": 3,
+    "names": ["s3", "t3", "season-3", "temporada-3", "3", "03"],
+
+    "pt_br":{
+        "synopsis":"A terceira temporada de Stranger Things foi anunciada pela Netflix em dezembro de 2017. Matt Duffer e Ross Duffer continuam como showrunners e produtores executivos. A terceira temporada estreou em 4 de julho de 2019, com 8 episódios, estrelada por Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Natalia Dyer, Charlie Heaton, Joe Keery, Dacre Montgomery, Maya Hawke, Priah Ferguson e Cara Buono, com Brett Gelman, Cary Elwes, Jake Busey, Michael Park, Francesca Reale e Alec Utgoff em papéis recorrentes. As atuações de Harbour, Brown, Montgomery e Hawke foram elogiadas pela crítica.",
+        "numberOfEpisodes": 8,
+        "launch":"4 de julho de 2019",
+        "countryOfOrigin":"Estados Unidos",
+        "premise":null,
+        "cast":{
+            "principal":[
+                "Winona Ryder como Joyce Byers",
+                "David Harbour como Jim Hopper",
+                "Finn Wolfhard como Mike Wheeler",
+                "Millie Bobby Brown como Jane Ives/Onze",
+                "Gaten Matarazzo como Dustin Henderson",
+                "Caleb McLaughlin como Lucas Sinclair",
+                "Noah Schnapp como Will Byers",
+                "Sadie Sink como Maxine 'Max' Mayfield",
+                "Natalia Dyer como Nancy Wheeler",
+                "Charlie Heaton como Jonathan Byers",
+                "Joe Keery como Steve Harrington",
+                "Dacre Montgomery como Billy Hargrove",
+                "Maya Hawke como Robin Buckley",
+                "Priah Ferguson como Erica Sinclair",
+                "Cara Buono como Karen Wheeler"
+            ],
+            "recorrente":[
+                "Joe Chrest como Ted Wheeler",
+                "Rob Morgan como Calvin Powell",
+                "John Paul Reynolds como Callahan",
+                "Randall P. Havens como Scott Clarke",
+                "Tinsley Price / Anniston como Holly Wheeler",
+                "Susan Shalhoub Larkin como Florence",
+                "Catherine Curtin como Claudia Henderson",
+                "Brett Gelman como Murray Bauman",
+                "Francesca Reale como Heather Holloway",
+                "Matty Cardarople como Keith",
+                "Will Chase como Neil Hargrove",
+                "Andrey Ivchenko como Grigori",
+                "Alyssa B. Levine como Candice",
+                "Peggy Miley como Doris Driscoll",
+                "Alec Utgoff como Alexey",
+                "Cary Elwes como Prefeito Larry Kline",
+                "Jake Busey como Bruce Lowe",
+                "Michael Park como Tom Holloway",
+                "Gabriela Pizzolo como Suzie",
+                "Holly Morris como Janet Holloway"
+            ]
+        },
+        "production":{
+            "principal":"A Netflix confirmou a terceira temporada de Stranger Things em dezembro de 2017. Matt Duffer e Ross Duffer continuam como showrunners e produtores executivos, e alguns atores foram confirmados para o elenco. Dentre eles, está a atriz Maya Hawke, que interpreta Robin. A terceira temporada estreou em 4 de julho de 2019."
+        },
+        "reception":null,
+        "episodes":[
+            {
+                "id": 18,
+                "episodeNumber": 1,
+                "title": "Capítulo um: Está me ouvindo, Suzie?",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Em 28 de junho de 1984, generais soviéticos deram um grupo de cientistas por ano para desenvolver tecnologia para forçar a abertura de um portal para o Mundo Invertido. Um ano depois, no meio do verão de 1985, em Hawkins, o novo Starcourt Mall causou o fechamento de outras lojas da cidade, irritando a população da cidade. Mike e Onze desenvolveram um relacionamento romântico e Hopper fala com Joyce sobre como separar os dois. Ela sugere que ele escreva um discurso 'coração a coração' para Onze. Dustin volta do acampamento científico de verão e incentiva Mike, Will, Lucas, Eleven e Max a ajudarem a montar um rádio improvisado para que ele possa entrar em contato com Suzie, namorada de Dustin. Uma noite, o poder sai por Hawkins, que sacode Will, e em uma usina siderúrgica abandonada nas proximidades, uma estranha entidade aparece, que Will sente, e depois essa entidade começa a explodir vários ratos e transforma-os em carne derretida. Nancy começou um trabalho no jornal local, sob editor Tom Holloway e colega de trabalho Bruce. Ela garante uma dica sobre um evento estranho. Dustin registra uma transmissão estranha vindo através de seu transmissor de um homem falando russo. Billy vai sair para um encontro passa pela fábrica, bate em algo e é arrastado para dentro."
+            },
+            {
+                "id": 19,
+                "episodeNumber": 2,
+                "title": "Capítulo dois: O caso dos ratos",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Nancy e Jonathan seguem uma pista de uma senhora que diz que ratos estão comendo fertilizante, e diz que prendeu um dos ratos, que parecia com raiva,. Steve e Robin participam de uma missão secreta, e Max e Onze vão às compras. Billy tem visões perturbadoras. "
+            },
+            {
+                "id": 20,
+                "episodeNumber": 3,
+                "title": "Capítulo três: A salva-vidas desaparecida",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "William Bridges",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Max incentiva Onze a usar seus poderes para 'espionar' Mike. Mais tarde, quando espiona Billy, ele percebe sua presença e Onze vê Billy subjugando Heather. Max e Onze tentam rastrear Billy, mas não conseguem encontrá-lo e nem Heather no trabalho. Nancy descobre mais sobre o estranho comportamento dos ratos, mas ela é ridicularizada pelos homens no jornal. Tentando encontrar o rato da Sra. Driscoll, Nancy e Jonathan descobrem que ela é feroz. Will tem uma briga com Lucas e Mike depois de um jogo de D & D. Robin atravessa as pistas para decodificar a mensagem, indicando que algo vai acontecer no shopping naquela noite. Naquela noite, Dustin, Steve e Robin espionam homens russos armados cobrindo um carregamento para o shopping.Enquanto Hopper está zangada com Joyce por perder a data, ciente de que está pensando em sair de Hawkins, Joyce reitera o que Clarke disse a ela: e procure sinais de tal dispositivo no abandonado Laboratório Hawkins, onde Hopper é atacado. Onze e Max acham Billy e Heather aparentemente bem com Tom e sua esposa. Billy zomba quando eles saem, o que Will sente. Billy e Heather então nocauteiam os pais dela, e os levam para a siderúrgica, onde é revelado o que a entidade usou a carne derretida dos ratos para fazer um monstro grotesco. "
+            },
+            {
+                "id": 21,
+                "episodeNumber": 4,
+                "title": "Capítulo quatro: A prova da sauna",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "Kate Trefey",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Billy e Heather levam seus pais para a fábrica, onde eles também estão possuídos. Mais tarde, Nancy e Jonathan são demitidos por Tom. Ainda curiosa, Nancy vai visitar a sra. Driscoll no hospital. Onze e Max se reúnem com Mike, Will e Lucas depois de ouvir sobre o último sensor de Will. O grupo determina que o Devorador de Mentes ainda reside no mundo real, tendo possuído Billy. Naquela noite, os cinco pegam Billy na sauna da piscina, confirmando que ele está possuído. Billy ganha força sobre-humana e se liberta, ao mesmo tempo em que Nancy testemunha que a Sra. Driscoll também se transforma. Hopper lembra de ter visto o homem russo que o atacou, Grigori, antes de se encontrar com o prefeito Kline. Hopper e Joyce forçam Kline a revelar que Grigori trabalha para os donos de Starcourt, que compraram mais propriedades abandonadas em volta de Hawkins. Kline alerta Grigori para Hopper e Joyce pesquisarem esses locais.Em Starcourt, Dustin, Steve e Robin pedem a Erica para entrar no depósito, e descobrir o que os russos estão tramando, mas percebem que é tarde demais é um elevador que os leva para baixo do shopping. Billy reagrupa-se com Heather no moinho, onde dezenas de outros cidadãos de Hawkins foram possuídos. "
+            },
+            {
+                "id": 22,
+                "episodeNumber": 5,
+                "title": "Capítulo cinco: Os devorados",
+                "directedBy": "Uta Briesewitz",
+                "writtenBy": "Paul Dichter",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Hopper e Joyce descobrem que uma das propriedades abandonadas tem um laboratório oculto. Eles entram em uma briga com Grigori e escapam com o Dr. Alexei, um homem russo que ajudou a construir o portal para Mundo Invertido. Alexei só fala russo, então Hopper decide ir para Murray, que pode ajudar na tradução. Grigori tenta seguir e perde a trilha. Dustin, Steve, Robin e Erica se escondem de homens russos descarregando as caixas do elevador, e os seguem depois que eles saem, descobrindo uma enorme base russa sob Starcourt. Tentando encontrar uma sala de comunicações, os quatro descobrem uma grande área de testes onde os cientistas estão tentando abrir o portal para o Mundo Invertido. Nancy e Jonathan se encontram com Will e os outros e confirmam suas experiências da noite anterior. Eles decidem deixar a Sra. Driscoll levá-los até onde Billy está. Enquanto as outras crianças esperam no andar de baixo, Nancy e Jonathan encontram a Sra. Driscoll e um furioso Tom e Bruce esperando por eles. Nancy e Jonathan lutam contra os dois e depois de matá-los, seus corpos se dissolvem em carne derretida que se juntam, formando um segundo monstro, menor que o outro. "
+            },
+            {
+                "id": 23,
+                "episodeNumber": 6,
+                "title": "Capítulo seis: E pluribus unum",
+                "directedBy": "Uta Briesewitz",
+                "writtenBy": "Curtis Gwinn",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Enquanto o Devorador de Mentes ataca Nancy e Jonathan no hospital, Will sente sua presença, e Onze chega a tempo de dominá-lo; ele entra nos esgotos. Na base russa de Starcourt, Steve e Robin são capturados, drogados e interrogados, mas Dustin e Erica chegam para resgatá-los. Com a tradução de Murray, Hopper e Joyce aprendem com Alexei os esforços russos para construir máquinas de portais para acessar o Mundo Invertido, incluindo um sob Starcourt; Hopper chama o Dr. Owens para avisar o governo. Grigori coroa Klein na feira do Dia da Independência, exigindo que ele intensifique os esforços para encontrar o grupo de Hopper. Para encontrar o Devorador de Mentes, Onze usa o mesmo método de acessar as memórias de Billy que ela usou com sua mãe. Depois de ver sua infância conturbada, ela encontra o olho da tempestadena usina siderúrgica. Quando ela sai de sua mente, Billy agarra-a, e o Devorador de Mentes percebe sua localização, na cabana de Hopper. Do outro lado da cidade, aqueles possuídos pelo Devorador de Mentes, são transformados em carne derretida, e se fundem ao monstro original, deixando-o ainda maior. "
+            },
+            {
+                "id": 24,
+                "episodeNumber": 7,
+                "title": "Capítulo sete: A mordida",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Onze e os outros determinam que o Devorador de Mentes está vindo para ela desde que foi ela quem fechou o portão. Will sentirá o Devorador de Mentes se aproximando e os atacará antes que eles fujam. Dustin e Erica arrastam Steve e Robin drogados para o cinema em Starcourt. O grupo de Onze invade uma loja de ferragens para ajudar a tratar suas feridas e coletar mais suprimentos. De repente, Dustin os contata por walkie-talkies para explicar sua situação antes que ele perca a energia da bateria. Onze usa seus poderes para checar Dustin, então o grupo decola para o shopping. Steve admite que tem sentimentos por Robin, mas ela aparece como lésbica. O grupo de Hopper faz o seu caminho para o recinto de feiras em Hawkins para encontrar as crianças onde eles são vistos por Klein, que alerta os russos. Alexei é fatalmente baleado por Grigori na frente de Murray. Murray, Hopper e Joyce esquivam-se de vários agentes soviéticos e descobrem que os agentes estão procurando as crianças no shopping. No shopping, o grupo de Eleven chega a tempo de impedir que os russos atirem no grupo de Dustin. Onze entra em colapsos na frente das crianças, sua ferida pulsando com um estranho crescimento. "
+            },
+            {
+                "id": 25,
+                "episodeNumber": 8,
+                "title": "Capítulo oito: A batalha de Starcourt",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "4 de julho de 2019",
+                "synopsis": "Onze livra o crescimento enquanto o grupo de Hopper chega.Planos são feitos para levar Eleven para a segurança, enquanto Hopper, Joyce e Murray desligarão a máquina, com Dustin e Erica navegando de sua torre de rádio. Dustin pede a ajuda de Suzie para um código necessário. Billy e o Devorador de mentes prendem Onze no shopping. Billy pega 11 para o Devorador de Mentes enquanto os outros distraem com fogos de artifício. Onze é capaz de despertar a mente de Billy de suas memórias, e Billy se sacrifica para proteger Onze.Hopper briga com Grigori na sala do portão enquanto Joyce se prepara para acionar o desligamento. Hopper atira Grigori na máquina, fazendo com que ela se desvie e bloqueie sua saída. Hopper acena para Joyce para acionar o desligamento, aparentemente desintegrando todos na sala do portão e parando o Devorador de Mentes. Como o Dr.Owens chega com forças militares, Onze vê da expressão de Joyce que Hopper se foi. Três meses depois, a família de Joyce e um Eleven impotente se preparam para sair de Hawkins. Joyce faz o discurso escrito de Hopper para Eleven. Em Kamchatka, os guardas russos são instruídos a alimentar um prisioneiro, mas 'não o americano', a um Demogorgon cativo. "
+            }
+        ]
+    },
+    "en_us":{
+        "synopsis": "The third season of Stranger Things was announced by Netflix in December 2017. Matt Duffer and Ross Duffer continue as showrunners and executive producers. Season 3 premiered on July 4, 2019, with 8 episodes, starring Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Natalia Dyer, Charlie Heaton, Joe Keery, Dacre Montgomery, Maya Hawke, Priah Ferguson and Cara Buono, with Brett Gelman, Cary Elwes, Jake Busey, Michael Park, Francesca Reale and Alec Utgoff in recurring roles. The performances by Harbour, Brown, Montgomery and Hawke were critically praised.",
+        "numberOfEpisodes": 8,
+        "launch": "July 4, 2019",
+        "countryOfOrigin": "United States",
+        "premise":null,
+        "cast":{
+            "main":[
+                "Winona Ryder as Joyce Byers",
+                "David Harbor as Jim Hopper",
+                "Finn Wolfhard as Mike Wheeler",
+                "Millie Bobby Brown as Jane Ives/Eleven",
+                "Gaten Matarazzo as Dustin Henderson",
+                "Caleb McLaughlin as Lucas Sinclair",
+                "Noah Schnapp as Will Byers",
+                "Sadie Sink as Maxine 'Max' Mayfield",
+                "Natalia Dyer as Nancy Wheeler",
+                "Charlie Heaton as Jonathan Byers.",
+                "Joe Keery as Steve Harrington.",
+                "Dacre Montgomery as Billy Hargrove.",
+                "Maya Hawke as Robin Buckley.",
+                "Priah Ferguson as Erica Sinclair",
+                "Cara Buono as Karen Wheeler"
+            ],
+            "recurrent":[
+                "Joe Chrest as Ted Wheeler",
+                "Rob Morgan as Calvin Powell",
+                "John Paul Reynolds as Callahan",
+                "Randall P. Havens as Scott Clarke",
+                "Tinsley Price / Anniston as Holly Wheeler",
+                "Susan Shalhoub Larkin as Florence",
+                "Catherine Curtin as Claudia Henderson",
+                "Brett Gelman as Murray Bauman",
+                "Francesca Reale as Heather Holloway",
+                "Matty Cardarople as Keith",
+                "Will Chase as Neil Hargrove",
+                "Andrey Ivchenko as Grigori",
+                "Alyssa B. Levine as Candice.",
+                "Peggy Miley as Doris Driscoll.",
+                "Alec Utgoff as Alexey.",
+                "Cary Elwes as Mayor Larry Kline.",
+                "Jake Busey as Bruce Lowe.",
+                "Michael Park as Tom Holloway.",
+                "Gabriela Pizzolo as Suzie.",
+                "Holly Morris as Janet Holloway."
+            ]
+        },
+        "production":{
+            "main":["Netflix has confirmed the third season of Stranger Things in December 2017. Matt Duffer and Ross Duffer are continuing as showrunners and executive producers, and some actors have been confirmed for the cast. Among them is actress Maya Hawke, who plays Robin. Season 3 premieres on July 4, 2019."]
+        },
+        "reception":null,
+        "episodes":[
+            {
+                "id": 18,
+                "episodeNumber": 1,
+                "title": "Chapter One: Can you hear me, Suzie?",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "July 4, 2019",
+                "synopsis": "On June 28, 1984, Soviet generals gave one group of scientists a year to develop technology to force open a portal to the Inverted World. A year later, in mid-summer 1985, in Hawkins, the new Starcourt Mall caused other stores in town to close, angering the townspeople. Mike and Eleven have developed a romantic relationship, and Hopper talks to Joyce about how to separate the two. She suggests that he write a 'heart to heart' speech for Eleven. Dustin returns from summer science camp and encourages Mike, Will, Lucas, Eleven and Max to help set up a makeshift radio so he can contact Suzie, Dustin's girlfriend. One night, power goes out through Hawkins, which shakes Will, and at a nearby abandoned steel mill, a strange entity appears, which Will senses, and then this entity starts blowing up various rats and turns them into molten meat. Nancy has started a job at the local newspaper, under editor Tom Holloway and co-worker Bruce. She secures a tip about a strange event. Dustin records a strange transmission coming through his transmitter from a man speaking Russian. Billy is leaving for a date passes by the factory, hits something and is dragged inside."
+            },
+            {
+                "id": 19,
+                "episodeNumber": 2,
+                "title": "Chapter Two: The Case of the Rats", 
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "July 4, 2019",
+                "synopsis": "Nancy and Jonathan follow up on a lead from a lady who says rats are eating fertilizer, and says she has trapped one of the rats, who seemed angry,. Steve and Robin participate in a secret mission, and Max and Eleven go shopping. Billy has disturbing visions. "
+            },
+            {
+                "id": 20,
+                "episodeNumber": 3,
+                "title": "Chapter Three: The Missing Lifeguard",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "William Bridges",
+                "launch": "July 4, 2019",
+                "synopsis": "Max encourages Eleven to use his powers to 'spy' on Mike. Later, when he spies on Billy, he notices his presence and Eleven sees Billy subduing Heather. Max and Eleven try to track Billy down, but are unable to find him and Heather at work. Nancy finds out more about the strange behavior of the rats, but she is ridiculed by the men at the newspaper. Trying to find Mrs. Driscoll's mouse, Nancy and Jonathan discover that she is fierce. Will has a fight with Lucas and Mike after a game of D & D. Robin goes through the clues to decode the message, indicating that something is going to happen at the mall that night. That night, Dustin, Steve and Robin spy on armed Russian men covering a shipment to the mall.While Hopper is angry with Joyce for missing the date, aware that she is considering leaving Hawkins, Joyce reiterates what Clarke told her: and look for signs of such a device in the abandoned Hawkins Lab, where Hopper is attacked. Eleven and Max find Billy and Heather apparently fine with Tom and his wife. Billy sneers when they leave, which Will feels. Billy and Heather then knock out her parents, and take them to the steel mill, where it is revealed what entity used the melted flesh of the rats to make a grotesque monster. "
+            },
+            {
+                "id": 21,
+                "episodeNumber": 4,
+                "title": "Chapter Four: The Sauna Proof",
+                "directedBy": "Shawn Levy",
+                "writtenBy": "Kate Trefey",
+                "launch": "July 4, 2019",
+                "synopsis": "Billy and Heather take their parents to the factory, where they are also possessed. Later, Nancy and Jonathan are fired by Tom. Still curious, Nancy goes to visit Mrs. Driscoll in the hospital. Eleven and Max meet with Mike, Will and Lucas after hearing about Will's latest sensor. The group determines that the Mind Eater still resides in the real world, having possessed Billy. That night, the five catch Billy in the pool sauna, confirming that he is possessed. Billy gains superhuman strength and breaks free, at the same time that Nancy witnesses Mrs. Driscoll transforming as well. Hopper remembers seeing the Russian man who attacked him, Grigori, before meeting with Mayor Kline. Hopper and Joyce force Kline to reveal that Grigori is working for the Starcourt owners, who have bought more abandoned properties around Hawkins. Kline warns Grigori for Hopper and Joyce to search these locations.At Starcourt, Dustin, Steve and Robin ask Erica to go into the warehouse, and find out what the Russians are up to, but realize it is too late is an elevator takes them down the mall. Billy regroups with Heather at the mill, where dozens of other Hawkins citizens have been possessed. "
+            },
+            {
+                "id": 22,
+                "episodeNumber": 5,
+                "title": "Chapter Five: The Devoured", 
+                "directedBy": "Uta Briesewitz",
+                "writtenBy": "Paul Dichter",
+                "launch": "July 4, 2019",
+                "synopsis": "Hopper and Joyce discover that one of the abandoned properties has a hidden laboratory. They get into a fight with Grigori and escape with Dr. Alexei, a Russian man who helped build the portal to Inverted World. Alexei only speaks Russian, so Hopper decides to go to Murray, who can help with the translation. Grigori tries to follow and loses the trail. Dustin, Steve, Robin and Erica hide from Russian men unloading boxes from the elevator, and follow them after they leave, discovering a huge Russian base under Starcourt. Trying to find a communications room, the four discover a large testing area where scientists are trying to open the portal to the Inverted World. Nancy and Jonathan meet up with Will and the others and confirm their experiments from the night before. They decide to let Mrs. Driscoll take them to where Billy is. While the other children wait downstairs, Nancy and Jonathan find Mrs. Driscoll and an angry Tom and Bruce waiting for them. Nancy and Jonathan fight the two and after killing them, their bodies dissolve into molten flesh that comes together, forming a second monster, smaller than the other."
+            },
+            {
+                "id": 23,
+                "episodeNumber": 6,
+                "title": "Chapter Six: E pluribus unum",
+                "directedBy": "Uta Briesewitz",
+                "writtenBy": "Curtis Gwinn",
+                "launch": "July 4, 2019",
+                "synopsis": "As the Mind Eater attacks Nancy and Jonathan in the hospital, Will senses his presence, and Eleven arrives just in time to overpower him; he enters the sewers. At the Russian Starcourt base, Steve and Robin are captured, drugged and interrogated, but Dustin and Erica arrive to rescue them. With Murray's translation, Hopper and Joyce learn from Alexei of Russian efforts to build portal machines to access the Inverted World, including one under Starcourt; Hopper calls Dr. Owens to warn the government. Grigori crowns Klein at the Independence Day fair, demanding that he step up efforts to find Hopper's group. To find the Mind Eater, Eleven uses the same method of accessing Billy's memories that she used with her mother. After seeing her troubled childhood, she finds the eye of the storm at the steel mill. When she comes out of her mind, Billy grabs her, and the Mind Eater realizes her location, at Hopper's cabin. On the other side of town, those possessed by the Mind Eater, are turned into molten flesh, and merge with the original monster, making it even bigger. "
+            },
+            {
+                "id": 24,
+                "episodeNumber": 7,
+                "title": "Chapter Seven: The Bite",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "July 4, 2019",
+                "synopsis": "Eleven and the others determine that the Mind Eater is coming for her since she was the one who closed the gate. Will senses the Mind Eater approaching and attacks them before they run away. Dustin and Erica drag drugged Steve and Robin to the movie theater in Starcourt. Eleven's group breaks into a hardware store to help treat their wounds and collect more supplies. Suddenly, Dustin contacts them by walkie-talkies to explain his situation before he loses battery power. Eleven uses his powers to check on Dustin, so the group takes off for the mall. Steve admits that he has feelings for Robin, but she comes across as a lesbian. Hopper's group makes their way to the fairgrounds in Hawkins to find the children where they are spotted by Klein, who alerts the Russians. Alexei is fatally shot by Grigori in front of Murray. Murray, Hopper and Joyce dodge several Soviet agents and discover that the agents are looking for the children at the mall. At the mall, Eleven's group arrives in time to stop the Russians from shooting Dustin's group. Eleven collapses in front of the children, his wound pulsating with a strange growth. "
+            },
+            {
+                "id": 25,
+                "episodeNumber": 8,
+                "title": "Chapter Eight: The Battle of Starcourt",
+                "directedBy": "The Duffer Brothers",
+                "writtenBy": "The Duffer Brothers",
+                "launch": "July 4, 2019",
+                "synopsis": "Eleven rids the growth as Hopper's group arrives.Plans are made to get Eleven to safety, while Hopper, Joyce, and Murray will shut down the machine, with Dustin and Erica navigating from their radio tower. Dustin enlists Suzie's help for a needed code. Billy and the Mind Eater trap Eleven at the mall. Billy picks up Eleven for the Mind Eater while the others are distracted by fireworks. Eleven is able to awaken Billy's mind from its memories, and Billy sacrifices himself to protect Eleven.Hopper fights with Grigori in the gate room while Joyce prepares to trigger the shutdown. Hopper throws Grigori at the machine, causing it to swerve and block his exit. Hopper nods to Joyce to trigger the shutdown, apparently disintegrating everyone in the gate room and stopping the Mind Eater. As Dr.Owens arrives with military forces, Eleven sees from Joyce's expression that Hopper is gone. Three months later, Joyce's family and a helpless Eleven prepare to leave Hawkins. Joyce delivers Hopper's written speech to Eleven. In Kamchatka, Russian guards are instructed to feed a prisoner, but 'not the American,' to a captive Demogorgon. "
+            }
+        ]
+    }
+}
