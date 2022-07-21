@@ -52,6 +52,14 @@
     "location_limit": {
         "message": "The location list contains only %%% elements.",
         "statusCode": 400
+    },
+
+
+
+    "season_not_found": {
+        "message":"Season not found.",
+        "statusCode": 404
     }
+
 
 }

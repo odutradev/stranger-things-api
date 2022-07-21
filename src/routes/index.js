@@ -3,6 +3,7 @@ import { Router } from 'express'
 import curiositiesRouter from './resources/curiosities.router.js';
 import charactersRouter from './resources/characters.router.js';
 import locationsRouter from './resources/locations.router.js';
+import seasonsRouter from './resources/seasons.router.js';
 
 
 
@@ -18,4 +19,5 @@ router.get('/ping', (req, res) => {
 router.use('/curiosities',  curiositiesRouter);
 router.use('/characters',  charactersRouter);
 router.use('/locations',  locationsRouter);
+router.use('/seasons', seasonsRouter);
 
