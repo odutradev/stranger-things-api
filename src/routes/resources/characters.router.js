@@ -2,16 +2,13 @@ import { Router } from "express";
 
 import CharactersController from "../../resources/characters.controllers.js";
 
-
-
-const charactersRouter = Router();
 const service = new CharactersController();
+const charactersRouter = Router();
 
+charactersRouter.get("/name/:name", service.getCharacterByName);
+charactersRouter.get("/random", service.getRandomCharacter);
+charactersRouter.get("/id/:id", service.getCharacterById);
+charactersRouter.get("/list", service.getCharacterList);
+charactersRouter.get("/", service.getCharacters);
 
-charactersRouter.get('/name/:name', (req, res) => service.getCharacterByName(req,res));
-charactersRouter.get('/random', (req, res) => service.getRandomCharacter(req,res));
-charactersRouter.get('/id/:id', (req, res) => service.getCharacterById(req,res));
-charactersRouter.get('/list',  (req,res) => service.getCharacterList(req,res));
-charactersRouter.get('/',  (req,res) => service.getCharacters(req,res));
-
-export default charactersRouter
+export default charactersRouter;

@@ -9,12 +9,12 @@ import cors from 'cors';
 
 import apiLimiter from './middlewares/apiLimiter.js';
 import { router } from './routes/index.js';
-import sendError from './util/error.js'
+import Errors from './util/error.js';
 
 
 
+export const {sendError} = new Errors(); 
 export const app = express();
-export {sendError}
 
 
 app.use(morgan('dev'));

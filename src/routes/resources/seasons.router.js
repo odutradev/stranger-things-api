@@ -1,15 +1,10 @@
-import { Router } from 'express';
+import { Router } from "express";
 
-import SeasonsController from '../../resources/seasons.controllers.js';
+import SeasonsController from "../../resources/seasons.controllers.js";
 
-
-const { getSeason } = new SeasonsController();
+const service = new SeasonsController();
 const seasonsRouter = Router();
 
-seasonsRouter.get('/:season', getSeason);
-
-
-
-
+seasonsRouter.get("/:season", service.getSeason);
 
 export default seasonsRouter;

@@ -1,13 +1,12 @@
 import { Router } from "express";
 
-import CuriositiesController from '../../resources/curiosities.controllers.js';
+import CuriositiesController from "../../resources/curiosities.controllers.js";
 
 const service = new CuriositiesController();
 const curiositiesRouter = Router();
 
-curiositiesRouter.get('/list', (req, res) => service.getCuriosityList(req, res))
-curiositiesRouter.get('/id/:id', (req, res) => service.getCuriosityById(req,res))
-curiositiesRouter.get('/', (req, res) => service.getCuriosity(req,res))
+curiositiesRouter.get("/id/:id", service.getCuriosityById);
+curiositiesRouter.get("/list", service.getCuriosityList);
+curiositiesRouter.get("/", service.getCuriosity);
 
-
-export default curiositiesRouter
+export default curiositiesRouter;
