@@ -1,12 +1,205 @@
 {
-    "id": 1,
-    "name":"Dustin",
+  "id": 1,
+  "name": "Dustin",
 
-    "pt_br":{
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Dustin Henderson",
+      "story": "Dustin Henderson, interpretado por Gaten Matarazzo, é um dos personagens principais da série original da Netflix, Stranger Things. Ele é o melhor amigo de Mike Wheeler, Lucas Sinclair, Will Byers, Onze, Max Mayfield e Steve Harrington, amigo de Robin Buckley e Erica Sinclair, e namorado de Suzie, que supostamente ''forçou'' a morte de Hopper e Billy.Em 1983, quando o amigo de Dustin, Will desapareceu, Dustin e o resto de seus amigos, Mike e Lucas foram procurá-lo, apenas para encontrar uma garota misteriosa chamada Eleven, que possuía poderes telecinéticos. Dustin tinha uma opinião neutra de Eleven quando ela os ajudou a procurar Will, mas ele se tornou um bom amigo dela depois que ela salvou ele e Mike de serem mortos pelos agressores da escola. Dustin continuaria ajudando seus amigos a encontrar Will e lutar contra um  até que ele fosse morto por Onze. No final, Dustin e seus amigos se reuniram com Will, onde eles comemoraram o Natal juntos.Em 1984, Dustin desempenhou um papel importante na trama ao descobrir e criar D'Artagnan, que mais tarde descobriu ser um demogorgon juvenil. Ele pediu a ajuda de Steve para lidar com D'Artagnan, e mais tarde juntou forças com o resto da gangue para salvar Will e todos de Hawkins. Ele, junto com Steve e seus amigos, ajudou a queimar a rede em expansão do Devorador de Mentes, proporcionando uma distração enquanto Onze fechava o portão para sempre. Um mês depois, Dustin frequenta o Baile de Inverno de sua escola na esperança de impressionar Max Mayfield, mas fica decepcionado quando ela e Lucas se tornam um casal. No entanto, ele dança com a irmã mais velha de Mike, Nancy, dizendo que um dia ele conquistará o coração de uma garota.No verão de 1985, Dustin foi ao Acampamento Know Where e conheceu uma garota chamada Suzie, que se tornou sua namorada. Apesar de ser recebido em casa por seus amigos, Dustin se sentiu deixado de fora por eles. Quando Dustin interceptou uma transmissão secreta russa em seu Cerebro, ele pediu a Steve, junto com o colega de trabalho Robin  e a irmã mais nova de Lucas, Erica, para ajudá-lo com a mensagem, levando-os a descobrir que os russos estavam em Hawkins trabalhando para abrir outro portão embaixo. Starcourt Mall. Depois de escapar da base russa, Dustin se reuniu e se reconciliou com seus amigos e os ajudou a derrotar o Devorador de Mentes mais uma vez, obtendo o número das constantes de Planck de Suzie a Joyce Byers e Jim Hopper para que eles pudessem fechar o portão. Três meses depois, Dustin se despede de Will e Eleven quando eles se mudam de Hawkins antes que ele e Lucas entreguem seus Dungeons & Dragons para Erica.",
+      "otherNames": null,
+      "nicknames": [
+        "Gênio da Bússola",
+        "Dusty",
+        "Dusty-Bun",
+        "Dustinzinho",
+        "Nerd",
+        "Fofinho"
+      ],
+      "birthDate": "01/01/1971",
+      "demise": null,
+      "hobbies": {
+        "rpg": "Como visto na serie, Dustin é apaixonado por jogos rpg (especificamente dungeons and dragons)."
+      },
+      "currentAge": 15,
+      "ageInSeasons": {
+        "t1": 12,
+        "t2": 13,
+        "t3": 14,
+        "t4": 15
+      },
+      "currentResidence": "Casa Henderson, Maple Street, Hawkins, Indiana",
+      "otherResidences": null,
+      "relatives": ["Claudia Henderson (mãe)", "Sr.Henderson (pai)"],
 
+      "otherRelationship": [
+        "Dart + (ex-animalzinho de estimação)",
+        "Sr.Scott Clarke (professor favorito)",
+        "Steve Harrington(melhor amigo)",
+        "Lucas Sinclair (melhor amigo)",
+        "Eddie Munson + (melhor amigo)",
+        "Mews + (gatinho de estimação)",
+        "Mike Wheeler (melhor amigo)",
+        "Will Byres (melhor amigo)",
+        "Erica Sinclair (amiga)",
+        "Nancy Wheeler (amiga)",
+        "Robin Buckley (amiga)",
+        "Max Mayfield (amiga)",
+        "Suzie (namorada)",
+        "James (inimigo)",
+        "Troy (inimigo)",
+        "Onze (amiga)"
+      ],
+      "relationshipStatus": "Namorando com a Suzie linda",
+      "occupations": [
+        "Estudante",
+        "Membro do Hellfire club",
+        "Ex-membro do AV clube"
+      ],
+      "status": "vivo",
+      "skills": null,
+      "curiosities": [
+        "Na terceira temporada, Dustin recebe um novo boné do Acampamento Know Where, enquanto seu velho boné das temporadas anteriores é visto no quarto de sua namorada, Suzie; ou seja, Dustin provavelmente deu a ela seu velho boné como uma maneira de se lembrar dele.",
+        "No roteiro piloto original, Benny Hammond está em alguns pontos referidos como 'Benny Henderson', o que poderia sugerir que Benny e Dustin foram originalmente planejados para fazer parte da mesma família.",
+        "Na terceira temporada, Dustin se tornou o segundo membro da Campanha a matar um inimigo, depois de Onze, que havia matado várias vezes nas duas últimas temporadas.",
+        "Dustin não cresceu em dentes adultos até os treze anos, porque tem displasia cleidocraniana, um distúrbio genético que envolve atraso no crescimento ósseo.",
+        "Durante a primeira temporada, a raça do personagem Dustin's Dungeons & Dragons foi revelada como um anão.",
+        "De acordo com o roteiro do piloto de Montauk, Dustin foi originalmente descrito para usar óculos grandes.",
+        "Ele é dono de um conjunto de engrenagens de hóquei, embora não se saiba se ele joga o jogo.",
+        "Quando ele não está estudando, está tentando recuperar sua pontuação alta no Dig Dug.",
+        "As atividades extracurriculares que ele teve foram o Clube AV e a Feira de Ciências.",
+        "Seus hobbies são descobrir novas espécies, recriar adereços de filmes em casa e D&D.",
+        "No Anuário da Escola Secundária Hawkins, ele foi mostrado como o 'Mais Curioso'.",
+        "Na segunda temporada, sua classe de personagem foi revelada como um bardo.",
+        "A casa de Dustin apareceu pela primeira vez na tela na segunda temporada.",
+        "Afirma-se que seu objetivo de carreira é ser um criptozoologista.",
+        "De todos os personagens mais jovens, Dustin é o que mais xinga.",
+        "Dustin é o único membro do clube AV que não tem irmãos.",
+        "Sua matéria favorita é Ciência."
+      ]
     },
-    "en_us":{
-
+    "physicalInformation": {
+      "species": "Humano",
+      "genre": "Masculino",
+      "height": 1.58,
+      "weight": "47kg",
+      "eyeColor": "Azuis",
+      "hairColor": "Castanho-escuro"
+    },
+    "Interpretation": {
+      "representedBy": "Gaten Matarazzo",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://m.facebook.com/people/Gaten-Matarazzo/100044337944498/",
+        "Instagram": "https://www.instagram.com/gatenm123/?hl=en",
+        "Twitter": "https://twitter.com/gatenm123?lang=en",
+        "TikTok": "https://www.tiktok.com/@gatenm123?lang=en"
+      },
+      "awards": null,
+      "patrimony": 5000000,
+      "wage": 250000,
+      "nationality": "norte-americano",
+      "birthDate": "08/09/2002",
+      "occupations": ["Ator"]
     }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Dustin Henderson",
+      "story": "Dustin Henderson, played by Gaten Matarazzo, is one of the main characters in the Netflix original series, Stranger Things. He is the best friend of Mike Wheeler, Lucas Sinclair, Will Byers, Eleven, Max Mayfield and Steve Harrington, friend of Robin Buckley and Erica Sinclair, and boyfriend of Suzie, who supposedly ''forced'' the death of Hopper and Billy.In 1983, when Dustin's friend Will disappeared, Dustin and the rest of his friends, Mike and Lucas went looking for him, only to find a mysterious girl named Eleven, who possessed telekinetic powers. Dustin had a neutral opinion of Eleven when she helped them look for Will, but he became good friends with her after she saved him and Mike from being killed by the school's bullies. Dustin would continue to help his friends find Will and fight one until he was killed by Eleven. In the end, Dustin and his friends were reunited with Will, where they celebrated Christmas together.In 1984, Dustin played a major role in the plot by discovering and raising D'Artagnan, who he later found out was a juvenile demogorgon. He enlisted Steve's help in dealing with D'Artagnan, and later joined forces with the rest of the gang to save Will and everyone in Hawkins. He, along with Steve and his friends, helped burn down the Mind Eater's expanding network, providing a distraction while Eleven closed the gate forever. A month later, Dustin attends his school's Winter Ball in hopes of impressing Max Mayfield, but is disappointed when she and Lucas become a couple. However, he dances with Mike's older sister Nancy, saying that one day he will win a girl's heart.In the summer of 1985, Dustin went to Camp Know Where and met a girl named Suzie, who became his girlfriend. Despite being welcomed home by his friends, Dustin felt left out by them. When Dustin intercepted a secret Russian transmission on his Cerebro, he asked Steve, along with co-worker Robin and Lucas' younger sister Erica, to help him with the message, leading them to discover that the Russians were in Hawkins working to open another gate downstairs. Starcourt Mall. After escaping the Russian base, Dustin reunited and reconciled with his friends and helped them defeat the Mind Eater once again, obtaining the number of Suzie's Planck constants from Joyce Byers and Jim Hopper so they could close the gate. Three months later, Dustin says goodbye to Will and Eleven as they move out of Hawkins before he and Lucas turn their Dungeons & Dragons over to Erica.",
+      "otherNames": null,
+      "nicknames": [
+        "Compass Genius",
+        "Dusty.",
+        "Dusty-Bun",
+        "Dusty-Bun",
+        "Nerd.",
+        "Cuddly"
+      ],
+      "birthDate": "01/01/1971",
+      "demise": null,
+      "hobbies": {
+        "rpg": "As seen in the series, Dustin is passionate about rpg games (specifically dungeons and dragons)."
+      },
+      "currentAge": 15,
+      "ageInSeasons": {
+        "t1": 12,
+        "t2": 13,
+        "t3": 14,
+        "t4": 15
+      },
+      "currentResidence": "Henderson House, Maple Street, Hawkins, Indiana",
+      "otherResidences": null,
+      "relatives": ["Claudia Henderson (mother)", "Mr. Henderson (father)"],
 
+      "otherRelationship": [
+        "Mr.Scott Clarke(favorite teacher)",
+        "Steve Harrington(best friend)",
+        "Lucas Sinclair (best friend)",
+        "Eddie Munson + (best friend)",
+        "Mike Wheeler (best friend)",
+        "Will Byres (best friend)",
+        "Erica Sinclair (friend)",
+        "Nancy Wheeler (friend)",
+        "Robin Buckley (friend)",
+        "Max Mayfield (friend)",
+        "Dart + (former pet)",
+        "Mews + (pet kitty)",
+        "Suzie (girlfriend)",
+        "Eleven (friend)",
+        "James (enemy)",
+        "Troy (enemy)"
+      ],
+      "relationshipStatus": "Dating beautiful Suzie",
+      "occupations": [
+        "Member of Hellfire club",
+        "Former AV club member",
+        "Student."
+      ],
+      "status": "live",
+      "skills": null,
+      "curiosities": [
+        "In the third season, Dustin gets a new cap from Camp Know Where, while his old cap from previous seasons is seen in the bedroom of his girlfriend, Suzie; that is, Dustin probably gave her his old cap as a way to remember him.",
+        "In the original pilot script, Benny Hammond is at some points referred to as 'Benny Henderson,' which could suggest that Benny and Dustin were originally planned to be part of the same family.",
+        "In the third season, Dustin became the second member of the Campaign to kill an enemy, after Eleven, who had killed several times in the past two seasons.",
+        "Dustin did not grow into adult teeth until he was thirteen because he has cleidocranial dysplasia, a genetic disorder that involves delayed bone growth.",
+        "During the first season, the race of Dustin's Dungeons & Dragons character was revealed to be a dwarf.",
+        "According to the script for the Montauk pilot, Dustin was originally described to wear large glasses.",
+        "He owns a set of field hockey gear, although it is not known if he plays the game.",
+        "When he's not studying, he's trying to make up his high score on Dig Dug.",
+        "The extracurricular activities he has had are the AV Club and the Science Fair.",
+        "His hobbies are discovering new species, recreating movie props at home, and D&D.",
+        "In the Hawkins High School Yearbook, he was shown as the 'Most Curious'.",
+        "In the second season, his character class was revealed to be a bard.",
+        "Dustin's house first appeared on screen in the second season.",
+        "It is stated that his career goal is to be a cryptozoologist.",
+        "Of all the younger characters, Dustin is the one who swears the most.",
+        "Dustin is the only member of the AV club who has no siblings.",
+        "His favorite subject is Science."
+      ]
+    },
+    "physicalInformation": {
+      "species": "Human",
+      "genre": "Male",
+      "height": 1.58,
+      "weight": "47kg",
+      "eyeColor": "blue",
+      "hairColor": "Dark Brown"
+    },
+    "Interpretation": {
+      "representedBy": "Gaten Matarazzo",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://facebook.com/people/Gaten-Matarazzo/100044337944498/",
+        "Instagram": "https://www.instagram.com/gatenm123/?hl=en",
+        "Twitter": "https://twitter.com/gatenm123?lang=en",
+        "TikTok": "https://www.tiktok.com/@gatenm123?lang=en"
+      },
+      "awards": null,
+      "patrimony": 5000000,
+      "wage": 250000,
+      "nationality": "North American",
+      "birthDate": "09/08/2002",
+      "occupations": ["Actor"]
+    }
+  }
 }

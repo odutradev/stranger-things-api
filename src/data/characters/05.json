@@ -1,0 +1,142 @@
+{
+  "id": 5,
+  "name": "Nancy",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Nancy Wheeler",
+      "story": "Nancy Wheeler é uma personagem principal de Stranger things. Nancy é doce, gentil, corajosa e determinada, é irmã mais velha de Mike Wheeler. Durante um certo período se apaixonou pelo 'King Steve', aluno mais popular da escola. Porém após um tempo terminou com ele por causa de seus amigos e começou a namorar com o irmão de Will, Jonathan Byers.",
+      "otherNames": null,
+      "nicknames": ["Nancy", "Nan", "Nancy Drew (Por Bruce Lowe)"],
+      "birthDate": "01/01/1967",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 19,
+      "ageInSeasons": {
+        "t1": 16,
+        "t2": 17,
+        "t3": 18,
+        "t4": 19
+      },
+      "currentResidence": "Casa dos Wheeler, Hawkins, Indiana",
+      "otherResidences": null,
+      "relatives": [
+        "Karen Wheeler (Mãe)",
+        "Ted Wheeler (Pai)",
+        "Mike Wheeler (irmão)",
+        "Holly Wheeler (Irmã)"
+      ],
+
+      "otherRelationship": [
+        "Barbara Holland † (melhor amiga / falecida)",
+        "Steve Harrington (amigo/ex-namorado)",
+        "Robin Buckley (Amiga)",
+        "Fred Benson † (Amigo /Ex-colega de classe)",
+        "Carol Perkins (ex-amiga)",
+        "Tommy Hagan (ex-amigo)",
+        "Heather Holloway (Ex-colega de classe)"
+      ],
+      "relationshipStatus": "Namorando Jonathan Byers",
+      "occupations": [
+        "Estudante em Hawkins High School (anteriormente; formada)"
+      ],
+      "status": "viva",
+      "skills": {
+        "jornalismo": "Mesmo com o preconceito de seus chefes por se mulher, Nancy destaca ser uma otima jornalista tendo uma grande influencia na terceira temporada.",
+        "investigação": "Nancy consegue descobrir o caso dos ratos em hawkins e mostra ser uma otima investigadora."
+      },
+      "curiosities": [
+        "Antes de 1979, Nancy costumava fazer cosplay para as antigas campanhas de D&D de Mike."
+      ]
+    },
+    "physicalInformation": {
+      "species": "humana",
+      "genre": "feminino",
+      "height": 1.65,
+      "weight": "49kg",
+      "eyeColor": "Azuis",
+      "hairColor": "Marrom"
+    },
+    "Interpretation": {
+      "representedBy": "Natalia Dyer",
+      "apparitions": null,
+      "socialNetworks": {
+        "Instagram": "https://www.instagram.com/nattyiceofficial/",
+        "Twitter": "https://twitter.com/nataliadyer"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "norte-americana",
+      "birthDate": "13/01/1995",
+      "occupations": ["atora"]
+    }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Nancy Wheeler",
+      "story": "Is a main character of Stranger Things is sweet, kind, more identified of Mike Wheeler. But after a while she broke up with him because of friends and started dating Will's brother Jonathan Byers.",
+      "nicknames": ["Nancy", "Nan", "Nancy Drew (By Bruce Lowe)"],
+      "birthDate": "01/01/1967",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 19,
+      "ageInSeasons": {
+        "t1": 16,
+        "t2": 17,
+        "t3": 18,
+        "t4": 19
+      },
+      "currentResidence": "Wheeler House, Hawkins, Indiana",
+      "otherResidences": null,
+      "relatives": [
+        "Karen Wheeler (Mother)",
+        "Ted Wheeler (Father)",
+        "Mike Wheeler (Brother)",
+        "Holly Wheeler (Sister)"
+      ],
+
+      "otherRelationship": [
+        "Barbara Holland † (best friend/deceased)",
+        "Steve Harrington (Friend/Ex-Boyfriend)",
+        "Robin Buckley (Friend)",
+        "Fred Benson † (Friend/Former Classmate)",
+        "Carol Perkins (Former Friend)",
+        "Tommy Hagan (Former Friend)",
+        "Heather Holloway (Former Classmate)"
+      ],
+      "relationshipStatus": "Dating Jonathan Byers",
+      "occupations": ["Student at Hawkins High School (Formerly; Graduate)"],
+      "status": "live",
+      "skills": {
+        "journalism": "Even with the prejudice of her bosses for being a woman, Nancy highlights that she is a great journalist having a great influence in the third season.",
+        "investigation": "Nancy manages to discover the case of the rats in hawkins and proves to be a great investigator."
+      },
+      "curiosities": [
+        "Before 1979, Nancy used to cosplay for Mike's old D&D campaigns."
+      ]
+    },
+    "physicalInformation": {
+      "species": "human",
+      "genre": "feminine",
+      "height": 1.65,
+      "weight": "49kg",
+      "eyeColor": "Blues",
+      "hairColor": "Brown"
+    },
+    "Interpretation": {
+      "representedBy": "Natalia Dyer",
+      "apparitions": null,
+      "socialNetworks": {
+        "Instagram": "https://www.instagram.com/nattyiceofficial/",
+        "Twitter": "https://twitter.com/nataliadyer"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "North-American",
+      "birthDate": "01/13/1995",
+      "occupations": ["actor"]
+    }
+  }
+}

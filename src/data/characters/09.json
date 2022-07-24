@@ -1,0 +1,113 @@
+{
+  "id": 9,
+  "name": "Becky-Ives",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Becky Ives",
+      "story": "Becky Ives é a irmã de Terry Ives e a tia da filha de Terry, Jane Ives. Ela é interpretada por Amy Seimetz. Becky morava com sua irmã Terry e seus pais em Bloomington, Indiana. Depois que seus pais morreram em um acidente de carro, ela se tornou a apoiadora financeira de sua irmã, mesmo quando Terry estava na faculdade. Becky estava totalmente alheia ao projeto em que sua irmã estava envolvida no Laboratório Nacional Hawkins e não acreditava na acusação de Terry, de que Martin Brenner havia sequestrado sua filha recém-nascida Jane , acreditando que ela tinha sofrido um Aborto espontâneo. Em 1978, depois que Terry passou pela ECT, Becky se tornou a cuidadora de Terry.",
+      "otherNames": null,
+      "nicknames": null,
+      "birthDate": "01/01/1947",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 39,
+      "ageInSeasons": {
+        "t1": 36,
+        "t2": 37,
+        "t3": 38,
+        "t4": 39
+      },
+      "currentResidence": "Casa Ives",
+      "otherResidences": null,
+      "relatives": [
+        "Bill Ives † (Pai)",
+        "Terry Ives (irmã)",
+        "Eleven (sobrinha)",
+        "Shirley (Tia)"
+      ],
+
+      "otherRelationship": null,
+      "relationshipStatus": "Solteira",
+      "occupations": null,
+      "status": "viva",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "Humana",
+      "genre": "feminino",
+      "height": null,
+      "weight": null,
+      "eyeColor": "Marrom",
+      "hairColor": null
+    },
+    "Interpretation": {
+      "representedBy": "Amy Seimetz",
+      "apparitions": ["O Monstro", "Dig Dug", "A Irmã Perdida"],
+      "socialNetworks": {
+        "Twitter": "https://twitter.com/amy_seimetz"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupations": null
+    }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Becky Ives",
+      "story": "Becky Ives is the sister of Terry Ives and the aunt of Terry's daughter Jane Ives. She is played by Amy Seimetz. Becky lived with her sister Terry and their parents in Bloomington, Indiana. After her parents died in a car accident, Becky was fully supportive of her sister's project, even when her sister was supported at Hawkins National Laboratory and her daughter did not believe Terry's justification that Martin Brenner kidnapped their newborn daughter Jane, believing she had a miscarriage. in 197, after Terry underwent ECT, Becky became Terry's caretaker.",
+      "otherNames": null,
+      "nicknames": null,
+      "birthDate": "01/01/1947",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 39,
+      "ageInSeasons": {
+        "t1": 36,
+        "t2": 37,
+        "t3": 38,
+        "t4": 39
+      },
+      "currentResidence": "Ives House",
+      "otherResidences": null,
+      "relatives": [
+        "Bill Ives † (Father)",
+        "Terry Ives (Sister)",
+        "Eleven (niece)",
+        "Shirley (Aunt)"
+      ],
+
+      "otherRelationship": null,
+      "relationshipStatus": "Single",
+      "occupations": null,
+      "status": "Live",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "Human",
+      "genre": "feminine",
+      "height": null,
+      "weight": null,
+      "eyeColor": "Brown",
+      "hairColor": null
+    },
+    "Interpretation": {
+      "representedBy": "Amy Seimetz",
+      "apparitions": ["The monster", "Dig Dug", "The Lost Sister"],
+      "socialNetworks": {
+        "Twitter": "https://twitter.com/amy_seimetz"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupations": null
+    }
+  }
+}

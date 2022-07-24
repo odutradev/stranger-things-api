@@ -1,0 +1,111 @@
+{
+  "id": 7,
+  "name": "Andrew-Rich",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Andrew Rich",
+      "story": "Andrew Rich foi um personagem introduzido no livro: Stranger Things, As raízes do mal (Livro). Ele era o namorado de Terry e o pai biológico de Eleven. Andrew nasceu em 14 de setembro de 1951. Andrew cresceu com pais relativamente ricos que pagaram seu caminho na faculdade.No final da década de 60, Andrew entrou para a faculdade e foi lá que ele conheceu Terry, Ken, Alice e Glória. A amiga em comum de Andrew , Stacy, apresentou Terry para ele, e eles imediatamente se deram bem, que depois de um tempo, os dois começaram a namorar.Em 3 de novembro de 1970, Andrew foi preso, depois de protestar contra o discurso de Nixon para a nação. Mais tarde, Andrew foi expulso de sua faculdade e seu status de estudante retirado, tornando-o um possivel escolhido para a Guerra do Vietnã.Sem que ninguém soubesse, o Dr. Brenner que fez um plano para expulsar Andrew da Faculdade e convoca-lo para a guerra.Brenner fez isso, pois queria punir Terry por ter encontrado Kali no laboratório.Sem poder evitar, Andrew foi enviado para a Guerra, Onde foi morto em uma batalha. Infelizmente, ele não chegou a saber sobre a gravidez de Terry.",
+      "otherNames": null,
+      "nicknames": null,
+      "birthDate": "14/09/1951",
+      "demise": "01/01/1970",
+      "hobbies": null,
+      "currentAge": null,
+      "ageInSeasons": null,
+      "currentResidence": null,
+      "otherResidences": ["Indiana"],
+      "relatives": ["Jane Ives (Filha)", "Terry Ives (ex-namorada)"],
+
+      "otherRelationship": [
+        "Terry Ives (Ex-Namorada)",
+        "Ken (Amigo)",
+        "Alice Johnson (Amiga)",
+        "Glória Flowers (Amiga)",
+        "Dave (Amigo)",
+        "Stacy (Amiga)"
+      ],
+      "relationshipStatus": "Namorando Terry Ives (anteriormente)",
+      "occupations": ["Estudante (anteriormente)", "Soldado"],
+      "status": "falecido",
+      "skills": null,
+      "curiosities": [
+        " Andrew nunca chegou a ser mencionado na série.",
+        "Apesar de Jim e Joyce irem a casa de Terry, para obterem respostas sobre Jane, eles não chegaram a questionar sobre o pai de Jane.",
+        "Onze nunca soube sobre a existência de Andrew, pois acreditava que Dr. Brenner era de fato seu pai."
+      ]
+    },
+    "physicalInformation": {
+      "species": "humano",
+      "genre": "masculino",
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": "castanho"
+    },
+    "Interpretation": {
+      "representedBy": null,
+      "apparitions": null,
+      "socialNetworks": null,
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupations": null
+    }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Andrew Rich",
+      "story": "Andrew Rich was a character introduced in the book: Stranger Things, The Roots of Evil (Book). He was Terry's boyfriend and Eleven's biological father. Andrew was born on September 14, 1951. Andrew grew up with relatively wealthy parents who paid their way through college. In the late 1960s, Andrew entered college and it was there that he met Terry, Ken, Alice, and Gloria. Andrew's mutual friend, Stacy, introduced Terry to him, and they immediately hit it off, which after a while, the two started dating. On November 3, 1970, Andrew was arrested, after protesting Nixon's speech to the nation. Later, Andrew was kicked out of his family. college and his withdrawn student status, making him a possible pick for the Vietnam War. Unbeknownst to anyone, it was Dr. Brenner who made a plan to expel Andrew from the College and summon him to the war. Brenner did so, because he wanted to punish Terry for finding Kali in the lab. vitar, Andrew was sent to War, where he was killed in battle. Unfortunately, he didn't find out about Terry's pregnancy.",
+      "otherNames": null,
+      "nicknames": null,
+      "birthDate": "09/14/1951",
+      "demise": "01/01/1970",
+      "hobbies": null,
+      "currentAge": null,
+      "ageInSeasons": null,
+      "currentResidence": null,
+      "otherResidences": ["Indiana"],
+      "relatives": ["Jane Ives (Daughter)", "Terry Ives (Ex-Girlfriend)"],
+
+      "otherRelationship": [
+        "Terry Ives (Ex-Girlfriend)",
+        "Ken (Friend)",
+        "Alice Johnson (Friend)",
+        "Glory Flowers (Friend)",
+        "Dave (Friend)",
+        "Stacy (Friend)"
+      ],
+      "relationshipStatus": "Dating Terry Ives (Formerly)",
+      "occupations": ["Student (Formerly)", "Soldier"],
+      "status": "deceased",
+      "skills": null,
+      "curiosities": [
+        "Andrew was never mentioned in the series.",
+        "Although Jim and Joyce went to Terry's house to get answers about Jane, they didn't even ask about Jane's father.",
+        "Eleven never knew about Andrew's existence as he believed that Dr. Brenner was in fact his father."
+      ]
+    },
+    "physicalInformation": {
+      "species": "human",
+      "genre": "masculine",
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": "brown"
+    },
+    "Interpretation": {
+      "representedBy": null,
+      "apparitions": null,
+      "socialNetworks": null,
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupations": null
+    }
+  }
+}

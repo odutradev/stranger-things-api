@@ -1,12 +1,141 @@
 {
-    "id": 4,
-    "name":"Eddie",
+  "id": 4,
+  "name": "Max",
 
-    "pt_br":{
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Max Mayfield",
+      "story": "Maxine 'Max' Mayfield é uma protagonista apresentada na Segunda Temporada de Stranger Things. Ela é interpretada por Sadie Sink. Após o divórcio de seus pais e o novo casamento de sua mãe, Max e sua família se mudaram da Califórnia para Hawkins , Indiana em outubro de 1984.Em 1985, ela e Eleven formaram uma forte amizade, unindo-se aos problemas de relacionamento. No entanto, Max logo descobriu que o perigo de Mundo Invertido havia retornado a Hawkins, pois o Devorador de Mentes possuiu seu meio-irmão, Billy Hargrove . Max ajudou seus amigos a lutar contra o Devorador de Mentes, que estava buscando vingança por derrotá-lo no ano anterior. Na conclusão da batalha, Billy se sacrificou para proteger Max e seus amigos.Três meses depois, Max se despediu de Eleven e Will quando eles se mudaram de Hawkins, enquanto Max continuava lamentando a perda de seu meio-irmão.",
+      "otherNames": ["Maxine"],
+      "nicknames": null,
+      "birthDate": "01/01/1971",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 15,
+      "ageInSeasons": {
+        "t1": 12,
+        "t2": 13,
+        "t3": 14,
+        "t4": 15
+      },
+      "currentResidence": "Hawkins, Indiana",
+      "otherResidences": [
+        "Hawkins, Indiana (1984 – presente)",
+        "California (1971-1984)"
+      ],
+      "relatives": [
+        "Sam Mayfield (Pai)",
+        "Susan Hargrove (Mãe)",
+        "Neil Hargrove (Padrasto)",
+        "Billy Hargrove † (meio-irmão)"
+      ],
 
+      "otherRelationship": [
+        "Eleven (Melhor amiga)",
+        " Will Byers (amigo)",
+        "Lucas Sinclair (amigo/ex-namorado)",
+        "Dustin Henderson (amigo)",
+        "Mike Wheeler (amigo)"
+      ],
+      "relationshipStatus": "solteira",
+      "occupations": [
+        "Estudante da Hawkins Middle School (anteriormente)",
+        "Estudante da Hawkins High School"
+      ],
+      "status": "viva",
+      "skills": null,
+      "curiosities": null
     },
-    "en_us":{
-
+    "physicalInformation": {
+      "species": "Humana",
+      "genre": "Ferminino",
+      "height": 1.66,
+      "weight": null,
+      "eyeColor": "Azuis",
+      "hairColor": "Ruivo"
+    },
+    "Interpretation": {
+      "representedBy": "Sadie Sink",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://facebook.com/sadiesinkofficial",
+        "Instagram": "https://www.instagram.com/sadiesink_/",
+        "Twitter": "https://twitter.com/sadiesink"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupations": null
     }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Max Mayfield",
+      "lugu": "Maxine 'Max' Mayfield on 'Stranger Things' teise hooaja peategelane. Teda mängib Sadie Sink. Pärast vanemate lahutust ja ema uuesti abiellumist kolis Max oma perega 1984. aasta oktoobris Californiast Hawkinsisse, Indianasse. 1985. aastal tekkis tal ja Elevenil tugev sõprus, mis ühendas neid suhteprobleemide üle. Peagi avastas Max aga, et Inverted Worldi oht oli Hawkinsisse tagasi pöördunud, sest Meelesööja valdas tema poolvenda Billy Hargrove'i . Max aitas oma sõpradel võidelda Meelesööja vastu, kes tahtis kätte maksta tema eelmise aasta lüüasaamise eest. Lahingu lõppedes ohverdas Billy end, et kaitsta Maxi ja tema sõpru.Kolm kuud hiljem jättis Max hüvasti Eleveni ja Williga, kui nad Hawkinsist ära kolisid, samal ajal kui Max jätkas oma poolvenna kaotuse leinamist.",
+      "otherNames": ["Maxine"],
+      "nicknames": null,
+      "birthDate": "01/01/1971",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 15,
+      "ageInSeasons": {
+        "t1": 12,
+        "t2": 13,
+        "t3": 14,
+        "t4": 15
+      },
+      "currentResidence": "Hawkins, Indiana",
+      "otherResidences": [
+        "Hawkins, Indiana (1984 – present)",
+        "California (1971-1984)"
+      ],
+      "relatives": [
+        "Sam Mayfield (Father)",
+        "Susan Hargrove (Mother)",
+        "Neil Hargrove (Stepfather)",
+        "Billy Hargrove † (half-brother)"
+      ],
 
+      "otherRelationship": [
+        "Eleven (Best Friend)",
+        "Will Byers (Friend)",
+        "Lucas Sinclair (Friend/Ex-Boyfriend)",
+        "Dustin Henderson (Friend)",
+        "Mike Wheeler (Friend)"
+      ],
+      "relationshipStatus": "single",
+      "occupations": [
+        "Hawkins Middle School Student (Formerly)",
+        "Hawkins High School Student"
+      ],
+      "status": "viva",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "Human",
+      "genrer": "Feminine",
+      "height": 1.66,
+      "weight": null,
+      "eyeColor": "Blues",
+      "hairColor": "Red"
+    },
+    "Interpretation": {
+      "representedBy": "Sadie Sink",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://facebook.com/sadiesinkofficial",
+        "Instagram": "https://www.instagram.com/sadiesink_/",
+        "Twitter": "https://twitter.com/sadiesink"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": null,
+      "birthDate": null,
+      "occupations": null
+    }
+  }
 }

@@ -1,0 +1,132 @@
+{
+  "id": 6,
+  "name": "Steve",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Steve Harrington",
+      "story": "Steve Harrington é um estudante na Hawkins High School e namorado de Nancy Wheeler durante a primeira e parte da segunda temporada. Enquanto primeiramente ele se demonstra encantador, mas arrogante, um outro lado mais altruísta do seu caráter é revelado mais tarde, quando ele ajuda Nancy e Jonathan a lutar contra o Monstro.É considerado por boa parte dos fãs como o personagem com maior redenção de toda a série. Na 2° temporada seu lado corajoso e protetor é mais abordado, assim como sua preocupação com a segurança das crianças. Nessa temporada, também, cria um laço com Dustin, chegando a lhe dar conselhos e agir como um irmão mais velho para ele.",
+      "otherNames": null,
+      "nicknames": ["King Steve", "Babá"],
+      "birthDate": "01/01/1966",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 20,
+      "ageInSeasons": {
+        "t1": 17,
+        "t2": 18,
+        "t3": 19,
+        "t4": 20
+      },
+      "currentResidence": "Hawkins, Indiana, Casa Harrington;",
+      "otherResidences": null,
+      "relatives": ["Sr. Harrington (Pai)", "Sra. Harrington (Mãe)"],
+
+      "otherRelationship": [
+        "Dustin Henderson (melhor amigo)",
+        "Jonathan Byers (amigo)",
+        "Tommy Hagan (ex-amigo)",
+        "Carol Perkins (ex-amigo)",
+        "Billy (inimigo)",
+        "Nancy Wheeler (ex-namorada) ",
+        "Robin Buckley (melhor amiga) ",
+        "Erica Sinclair (amiga)"
+      ],
+      "relationshipStatus": "solteiro",
+      "occupations": [
+        "Aluno da Hawkins High School (anteriormente - formando)",
+        "Empregado da Scoops Ahoy (anteriormente)",
+        "Empregado da Video Family"
+      ],
+      "status": "vivo",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "humano",
+      "genre": "masculino",
+      "height": 1.8,
+      "weight": "70kg",
+      "eyeColor": "Marrom",
+      "hairColor": "Marrom"
+    },
+    "Interpretation": {
+      "representedBy": "Joe Keery",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://www.facebook.com/Joekeeryofficial",
+        "Twitter": "https://twitter.com/joe_keery"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "norte-americano",
+      "birthDate": "24/04/1992",
+      "occupations": ["Ator, músico"]
+    }
+  },
+
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Steve Harrington",
+      "story": "Steve Harrington is a student at Hawkins High School and Nancy Wheeler's boyfriend during the first and part of the second season. While he is initially charming but arrogant, a more selfless side to his character is revealed later on. , when he helps Nancy and Jonathan fight the Monster. He is considered by most fans as the character with the greatest redemption in the entire series. In season 2, his courageous and protective side is more addressed, as well as his concern for the This season, too, he bonds with Dustin, even giving him advice and acting like a big brother to him.",
+      "otherNames": null,
+      "nicknames": ["King Steve", "Babysitter"],
+      "birthDate": "01/01/1966",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 20,
+      "ageInSeasons": {
+        "t1": 17,
+        "t2": 18,
+        "t3": 19,
+        "t4": 20
+      },
+      "currentResidence": "Hawkins, Indiana, Harrington House",
+      "otherResidences": null,
+      "relatives": ["Mr. Harrington (Father)", "Mrs. Harrington (Mother)"],
+
+      "otherRelationship": [
+        "Dustin Henderson (Best Friend)",
+        "Jonathan Byers (Friend)",
+        "Tommy Hagan (Former Friend)",
+        "Carol Perkins (Former Friend)",
+        "Billy (enemy)",
+        "Nancy Wheeler (Ex-Girlfriend)",
+        "Robin Buckley (Best Friend)",
+        "Erica Sinclair (Friend)"
+      ],
+      "relationshipStatus": "single",
+      "occupations": [
+        "Hawkins High School Student (Formerly - Graduate)",
+        "Scoops Ahoy Employee (Formerly)",
+        "Video Family Employee"
+      ],
+      "status": "live",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "human",
+      "genre": "masculine",
+      "height": 1.8,
+      "weight": "70kg",
+      "eyeColor": "Brown",
+      "hairColor": "Brown"
+    },
+    "Interpretation": {
+      "representedBy": "Joe Keery",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://www.facebook.com/Joekeeryofficial",
+        "Twitter": "https://twitter.com/joe_keery"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "North American",
+      "birthDate": "04/24/1992",
+      "occupations": ["Actor, Musician"]
+    }
+  }
+}

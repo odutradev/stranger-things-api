@@ -1,0 +1,62 @@
+{
+    "id": 0,
+    "name":"",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "",
+            "story":"",
+            "otherNames": null,
+            "nicknames": [],
+            "birthDate": "",
+            "demise": null,
+            "hobbies": {
+              "": ""
+            },
+            "currentAge": 15,
+            "ageInSeasons": {
+              "t1": 12,
+              "t2": 13,
+              "t3": 14,
+              "t4": 15
+            },
+            "currentResidence": "",
+            "otherResidences": [],
+            "relatives": [],
+      
+            "otherRelationship": [],
+            "relationshipStatus": "",
+            "occupations": [],
+            "status": "vivo",
+            "skills": {},
+            "curiosities":  []
+          },
+          "physicalInformation": {
+            "species": "",
+            "genre": "",
+            "height": 0,
+            "weight": "",
+            "eyeColor": "",
+            "hairColor": ""
+          },
+          "Interpretation": {
+            "representedBy": "",
+            "apparitions": [],
+            "socialNetworks": {
+              "facebook": "",
+              "Instagram": "",
+              "Twitter": "",
+              "TikTok": ""
+            },
+            "awards": [],
+            "patrimony": 0,
+            "wage": 0,
+            "nationality": "",
+            "birthDate": "",
+            "occupations": []
+          }
+    },
+    "en_us":{
+
+    }
+}

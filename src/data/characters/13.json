@@ -1,0 +1,123 @@
+{
+  "id": 13,
+  "name": "Bob-Newby",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Bob Newby",
+      "story": "Bob começou um namoro com Joyce. Jonathan Byers não gostava muito de Bob, enquanto Will Byers não via nenhum problema com ele. Ele sempre ficava com Joyce em sua casa. Will começa a se sentir mal, e Bob traz medicina para ele, achando que ele estava doente.",
+      "otherNames": null,
+      "nicknames": [" Bob the Brain (Bob o Sabichão)", "Super herói"],
+      "birthDate": null,
+      "demise": "04/11/1984",
+      "hobbies": {
+        "": ""
+      },
+      "currentAge": null,
+      "ageInSeasons": {
+        "t1": null,
+        "t2": null,
+        "t3": null,
+        "t4": null
+      },
+      "currentResidence": null,
+      "otherResidences": [" Hawkins, Indiana (anteriormente)"],
+      "relatives": null,
+
+      "otherRelationship": [
+        "Joyce Byers (ex-colega de classe / ex-namorada)",
+        "Jim Hopper (ex-colega de classe / amigo)",
+        "Will Byers (amigo)",
+        "Jonathan Byers (amigo)",
+        "Sam Owens (amigo)"
+      ],
+      "relationshipStatus": "namorou Joyce Byers",
+      "occupations": ["Gerente da RadioShack"],
+      "status": "falecido",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "humano",
+      "genre": "masculino",
+      "height": null,
+      "weight": null,
+      "eyeColor": "Castanho-claro",
+      "hairColor": "Castanho"
+    },
+    "Interpretation": {
+      "representedBy": "Sean Astin",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://facebook.com/SeanAstinPublic",
+        "Instagram": "https://www.instagram.com/seanastin/",
+        "Twitter": "https://twitter.com/seanastin"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "norte-americano",
+      "birthDate": "25/02/1971",
+      "occupations": ["Ator", "Diretor", "Produtor"]
+    }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Bob Newby",
+      "story": "Bob started dating Joyce. Jonathan Byers didn't like Bob very much, while Will Byers didn't see any problem with him. He always stayed with Joyce at his house. Will starts to feel bad, and Bob brings medicine to him, thinking he was sick.",
+      "otherNames": null,
+      "nicknames": ["Bob o Sabichão", "Super hero"],
+      "birthDate": null,
+      "demise": "11/04/1984",
+      "hobbies": {
+        "": ""
+      },
+      "currentAge": null,
+      "ageInSeasons": {
+        "t1": null,
+        "t2": null,
+        "t3": null,
+        "t4": null
+      },
+      "currentResidence": null,
+      "otherResidences": ["Hawkins, Indiana (formerly)"],
+      "relatives": null,
+
+      "otherRelationship": [
+        "Joyce Byers (Former Classmate/Ex-Girlfriend)",
+        "Jim Hopper (Former Classmate/Friend)",
+        "Will Byers (Friend)",
+        "Jonathan Byers (Friend)",
+        "Sam Owens (Friend)"
+      ],
+      "relationshipStatus": "dated Joyce Byers",
+      "occupations": ["RadioShack Manager"],
+      "status": "deceased",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "human",
+      "genre": "masculine",
+      "height": null,
+      "weight": null,
+      "eyeColor": "Light brown",
+      "hairColor": "brown"
+    },
+    "Interpretation": {
+      "representedBy": "Sean Astin",
+      "apparitions": null,
+      "socialNetworks": {
+        "facebook": "https://facebook.com/SeanAstinPublic",
+        "Instagram": "https://www.instagram.com/seanastin/",
+        "Twitter": "https://twitter.com/seanastin"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "North American",
+      "birthDate": "02/25/1971",
+      "occupations": ["Actor", "Director", "Producer"]
+    }
+  }
+}

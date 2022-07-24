@@ -1,12 +1,131 @@
 {
-    "id": 3,
-    "name":"Erika",
+  "id": 3,
+  "name": "Erika",
 
-    "pt_br":{
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Érica Sinclair",
+      "story": "Érica Sinclair é uma personagem principal de Stranger Things. Irmã mais jovem de Lucas, ela é esperta e inteligente. Sua primeira aparição foi na Segunda temporada, como antagonista, a partir da terceira e quarta temporada, virou personagem principal. Ela é muito esperta, tanto que Robin Buckley (Maya Hawke) e Steve Harrington (Joe Kery) precisaram de sua ajuda para vencer o Demogorgon e abrir as caixas. Ela é bem grossa, na quarta temporada, ajuda na luta contra Vecna, ela e o novo personagem, Eddie Munson (Joseph Quinn) não se dão bem, ele a chama de anã e baixinha, quem a ver confunde sua idade, como Murray Bauman (Brett Gelman), que achou que ela tinha 4 anos. Sua sobremesa favorita é sorvete, tanto que, após a abertura do Scoops Ahoy no Starcout Mall, ela virou cliente regular e sempre aparece sozinha ou acompanhada de suas amigas, para uma criança de 9-11 anos, ela é bem inteligente, tanto que Dustin Henderson (Gaten Matarazzo) a deu o apelido de 'Nerd'.",
+      "otherNames": null,
+      "nicknames": ["nerd"],
+      "birthDate": "01/01/1975",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 15,
+      "ageInSeasons": {
+        "t1": 12,
+        "t2": 13,
+        "t3": 14,
+        "t4": 15
+      },
+      "currentResidence": "Hawkins, Indiana, Casa dos Sinclair;",
+      "otherResidences": null,
+      "relatives": [
+        "Lucas Sinclair (Irmão mais velho)",
+        "Sr. Sinclair (Pai)",
+        "Sra. Sinclair (Mãe)",
+        "Jack Sinclair (Tio)"
+      ],
 
+      "otherRelationship": [
+        "Robin Buckley (Aliada)",
+        "Dustin Henderson (Aliado)",
+        "Steve Harrington (Aliado)",
+        "Eddie Munson (Aliado)",
+        "Tina (Amiga)"
+      ],
+      "relationshipStatus": null,
+      "occupations": ["Estudante"],
+      "status": "viva",
+      "skills": null,
+      "curiosities": null
     },
-    "en_us":{
-
+    "physicalInformation": {
+      "species": "Humana",
+      "genre": "Feminino",
+      "height": 1.56,
+      "weight": "49kg",
+      "eyeColor": "Castanho",
+      "hairColor": "Preto"
+    },
+    "Interpretation": {
+      "representedBy": "Priah Ferguson",
+      "apparitions": null,
+      "socialNetworks": {
+        "Instagram": "https://www.instagram.com/priahferguson/",
+        "TikTok": "https://www.tiktok.com/@priahfergusonofficial"
+      },
+      "awards": [
+        "Prêmio do Sindicato dos Atores, Melhor Elenco de Série Dramática (indicado)"
+      ],
+      "patrimony": 0,
+      "wage": 0,
+      "nationality": "norte-americano",
+      "birthDate": "01/10/2006",
+      "occupations": null
     }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Érica Sinclair",
+      "story": "Erica Sinclair is a main character in Stranger Things. Lucas' younger sister, she is smart and intelligent. Her first appearance was in Season 2 as an antagonist, and from Season 3 and 4 on, she became a main character. She is very smart, so much so that Robin Buckley (Maya Hawke) and Steve Harrington (Joe Kery) needed her help to defeat the Demogorgon and open the boxes. She is quite thick, in the fourth season, she helps in the fight against Vecna, she and the new character, Eddie Munson (Joseph Quinn) do not get along, he calls her a dwarf and short, those who see her confuse her age, like Murray Bauman (Brett Gelman), who thought she was 4 years old. Her favorite dessert is ice cream, so much so that after Scoops Ahoy opened in Starcout Mall, she became a regular customer and always shows up alone or with her friends, for a 9-11 year old, she is pretty smart, so much so that Dustin Henderson (Gaten Matarazzo) nicknamed her 'Nerd'.",
+      "otherNames": null,
+      "nicknames": ["geek"],
+      "birthDate": "01/01/1975",
+      "demise": null,
+      "hobbies": null,
+      "currentAge": 15,
+      "ageInSeasons": {
+        "t1": 12,
+        "t2": 13,
+        "t3": 14,
+        "t4": 15
+      },
+      "currentResidence": "Hawkins, Indiana, home of the Sinclair;",
+      "otherResidences": null,
+      "relatives": [
+        "Lucas Sinclair (Older Brother)",
+        "Mr. Sinclair (Father)",
+        "Mrs. Sinclair (Mother)",
+        "Jack Sinclair (Uncle)"
+      ],
 
+      "otherRelationship": [
+        "Robin Buckley (Allied)",
+        "Dustin Henderson (Ally)",
+        "Steve Harrington (Ally)",
+        "Eddie Munson (Ally)",
+        "Tina (Friend)"
+      ],
+      "relationshipStatus": null,
+      "occupations": ["studant"],
+      "status": "live",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "Human",
+      "genre": "feminine",
+      "height": 1.56,
+      "weight": "49kg",
+      "eyeColor": "Brown",
+      "hairColor": "black"
+    },
+    "Interpretation": {
+      "representedBy": "Priah Ferguson",
+      "apparitions": null,
+      "socialNetworks": {
+        "Instagram": "https://www.instagram.com/priahferguson/",
+        "TikTok": "https://www.tiktok.com/@priahfergusonofficial"
+      },
+      "awards": [
+        "Actors Guild Award, Outstanding Ensemble in a Drama Series (Nominated)"
+      ],
+      "patrimony": 0,
+      "wage": 0,
+      "nationality": "North American",
+      "birthDate": "10/01/2006",
+      "occupations": null
+    }
+  }
 }

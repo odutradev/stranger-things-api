@@ -1,0 +1,111 @@
+{
+  "id": 10,
+  "name": "Benny-Hammond",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Benny Hammond",
+      "story": "Benny Hammond foi um personagem recorrente na primeira temporada. Ele era o proprietário e chef do Benny's Burgers, um restaurante localizado na rua 4819 Randolph Lane, em Hawkins, Indiana. Depois de encontrar uma garotinha estranha e desgrenhada, Benny decidiu cuidar dela, fornecendo-lhe comida e entrando em contato com os Serviços Sociais. No entanto, essa boa ação levou à sua morte nas mãos da agente do Departamento de Justiça Connie Frazier. Benny Hammond nasceu na década de 1940 em Hawkins , Indiana e em algum momento ele foi proprietário e trabalhou em sua lanchonete chamada Benny's Burgers, uma empresa familiar. Ele era amigo de Hopper , Earl e Henry . Segundo Earl, as ex-namoradas de Benny 'não gostavam muito dele', mas tirando isso, ele tinha poucos inimigos. Benny e Earl planejaram ir pescar no rio Etowah em 13 de novembro de 1983, uma viagem que Benny estava esperando ansiosamente, porém, isso não aconteceu.",
+      "otherNames": null,
+      "nicknames": null,
+      "birthDate": null,
+      "demise": "07/11/1983",
+      "hobbies": null,
+      "currentAge": null,
+      "ageInSeasons": null,
+      "currentResidence": "",
+      "otherResidences": null,
+      "relatives": null,
+      "otherRelationship": [
+        "Jim Hopper (Amigo)",
+        "Earl (Amigo)",
+        "Henry † (Amigo)",
+        "Eleven (Conhecida)"
+      ],
+      "relationshipStatus": "solteiro",
+      "occupations": ["Proprietário de restaurante", "Chef (Anteriormente)"],
+      "status": "falecido",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "humano",
+      "genre": "masculino",
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": "castanho"
+    },
+    "Interpretation": {
+      "representedBy": "Chris Sullivan",
+      "apparitions": [
+        "O Desaparecimento de Will Byers",
+        "A Estranha na Rua Maple"
+      ],
+      "socialNetworks": {
+        "facebook": "https://facebook.com/ChrisSullivanActor",
+        "Instagram": "https://www.instagram.com/sullivangrams/",
+        "Twitter": "https://twitter.com/sullivantweet"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "Palm Springs, California, U.S.",
+      "birthDate": "19/07/1980",
+      "occupations": ["ator", "musico"]
+    }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Benny Hammond",
+      "story": "Benny Hammond was a recurring character in the first season. He was the owner and chef of Benny's Burgers, a restaurant located at 4819 Randolph Lane in Hawkins, Indiana. After encountering a strange, disheveled little girl, Benny decided to taking care of her by providing her with food and contacting Social Services. However, this good deed led to her death at the hands of Department of Justice agent Connie Frazier. Benny Hammond was born in the 1940s in Hawkins, Indiana and in at some point he owned and worked at his diner called Benny's Burgers, a family business. He was friends with Hopper, Earl, and Henry. According to Earl, Benny's ex-girlfriends 'didn't like him very much', but other than that, he had few enemies. Benny and Earl planned to go fishing on the Etowah River on November 13, 1983, a trip that Benny had been looking forward to, but it didn't happen.",
+      "otherNames": null,
+      "nicknames": null,
+      "birthDate": null,
+      "demise": "11/07/1983",
+      "hobbies": null,
+      "currentAge": null,
+      "ageInSeasons": null,
+      "currentResidence": "",
+      "otherResidences": null,
+      "relatives": null,
+      "otherRelationship": [
+        "Jim Hopper (Friend)",
+        "Earl (Friend)",
+        "Henry † (Friend)",
+        "Eleven (Known)"
+      ],
+      "relationshipStatus": "single",
+      "occupations": ["Restaurant Owner", "Chef (Formerly)"],
+      "status": "deceased",
+      "skills": null,
+      "curiosities": null
+    },
+    "physicalInformation": {
+      "species": "human",
+      "genre": "masculine",
+      "height": null,
+      "weight": null,
+      "eyeColor": null,
+      "hairColor": "brown"
+    },
+    "Interpretation": {
+      "representedBy": "Chris Sullivan",
+      "apparitions": [
+        "The Disappearance of Will Byers",
+        "The Stranger on Maple Street"
+      ],
+      "socialNetworks": {
+        "facebook": "https://facebook.com/ChrisSullivanActor",
+        "Instagram": "https://www.instagram.com/sullivangrams/",
+        "Twitter": "https://twitter.com/sullivantweet"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "Palm Springs, California, U.S.",
+      "birthDate": "07/19/1980",
+      "occupations": ["actor", "musician"]
+    }
+  }
+}

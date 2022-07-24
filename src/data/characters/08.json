@@ -1,0 +1,134 @@
+{
+  "id": 8,
+  "name": "Barbara-Holland",
+
+  "pt_br": {
+    "biographicalInformation": {
+      "name": "Barbara Holland",
+      "story": "Barbara 'Barb' Holland era a melhor amiga de Nancy Wheeler. Durante Stranger Things. Barb desaparece misteriosamente, o que leva Nancy e Jonathan Byers investigarem seu desaparecimento. Eventualmente, foi revelado que ela havia sido morta por um Demogorgon. Em 1984, após o reconhecimento do envolvimento do Laboratório Hawkins em sua morte, ela recebeu um funeral adequado. Barbara Holland era filha do Sr. e da Sra. Holland. Ela estudou na Hawkins High School e, em algum momento, tornou-se a melhor amiga de Nancy Wheeler. Em 1983, Nancy começou a namorar Steve Harrington , um garoto popular da escola. Barb foi às compras de roupas em um fim de semana, com Nancy tentando impressionar Steve.",
+      "otherNames": null,
+      "nicknames": [
+        "Barb (Pela maioria das pessoas)",
+        "Senhorita Holland (Por Sam Owens)"
+      ],
+      "birthDate": "13/09/1967",
+      "demise": "08/11/1983",
+      "hobbies": null,
+      "currentAge": null,
+      "ageInSeasons": {
+        "t1": 16,
+        "t2": null,
+        "t3": null,
+        "t4": null
+      },
+      "currentResidence": null,
+      "otherResidences": ["Hawkins, Indiana"],
+      "relatives": [" Sra. Holland (mãe)", "Sr. Holland (pai)"],
+
+      "otherRelationship": ["Nancy Wheeler (melhor amiga)"],
+      "relationshipStatus": null,
+      "occupations": ["Estudante da Hawkins High School (Anteriormente)"],
+      "status": "falecida",
+      "skills": null,
+      "curiosities": [
+        "Barbara foi a primeira adolescente a morrer na série.",
+        "Apesar de seu papel menor na Série, Barbara se tornou uma personagem popular entre os fãs. Sua morte inspirou tendências como '#Justiça Pela Barb'",
+        "Quando Nancy está conversando com a Sra. Holland ao telefone, ela conta uma mentira sobre Barb estar na biblioteca. Ironicamente, isso seria verdade, pois o corpo dela foi visto na versão do mundo invertido da biblioteca.",
+        "As fotos de infância de Barb vistas na casa dos Hollands em 'MADMAX' são as verdadeiras fotos de infância de Shannon Purser , a atriz de Barb.",
+        "Barb conheceu apenas três personagens principais da série, Nancy, Steve e Jonathan. É possível que ela tenha conhecido Mike e Karen como ela era amiga de Nancy."
+      ]
+    },
+    "physicalInformation": {
+      "species": "humana",
+      "genre": "feminino",
+      "height": null,
+      "weight": null,
+      "eyeColor": "Marrom",
+      "hairColor": "Vermelho"
+    },
+    "Interpretation": {
+      "representedBy": "Shannon Purser",
+      "apparitions": [
+        "O Desaparecimento de Will Byers",
+        "A Estranha na Rua Maple",
+        "Caramba",
+        "O Corpo",
+        "A Banheira",
+        "O Mundo Invertido"
+      ],
+      "socialNetworks": {
+        "Instagram": "https://www.instagram.com/shannonpurser/",
+        "Twitter": "https://twitter.com/shannonpurser"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "norte-americana",
+      "birthDate": "27/06/1997",
+      "occupations": ["Atriz"]
+    }
+  },
+  "en_us": {
+    "biographicalInformation": {
+      "name": "Barbara Holland",
+      "story": "Barbara 'Barb' Holland was Nancy Wheeler's best friend. During Stranger Things, Barb mysteriously disappears, which leads Nancy and Jonathan Byers to investigate her disappearance. Eventually, it was revealed that she had been killed by a Demogorgon. In 1984, after recognition of Hawkins Laboratory's involvement in her death, she was given a proper funeral. Barbara Holland was the daughter of Mr. and Mrs. Holland. She attended Hawkins High School and at some point became the Nancy Wheeler's best friend. In 1983, Nancy started dating Steve Harrington, a popular boy at school. Barb went clothes shopping one weekend, with Nancy trying to impress Steve.",
+      "otherNames": null,
+      "nicknames": ["Barb (By most people)", "Miss Holland (By Sam Owens)"],
+      "birthDate": "09/13/1967",
+      "demise": "11/08/1983",
+      "hobbies": null,
+      "currentAge": null,
+      "ageInSeasons": {
+        "t1": 16,
+        "t2": null,
+        "t3": null,
+        "t4": null
+      },
+      "currentResidence": null,
+      "otherResidences": ["Hawkins, Indiana"],
+      "relatives": ["Mrs Holland (mother)", "Mr Holland (father)"],
+
+      "otherRelationship": ["Nancy Wheeler (Best Friend)"],
+      "relationshipStatus": null,
+      "occupations": ["Hawkins High School Student (Formerly)"],
+      "status": "deceased",
+      "skills": null,
+      "curiosities": [
+        "Barbara was the first teenager to die in the series.",
+        "Despite her minor role in the series, Barbara has become a popular character with fans. Her death has inspired trends such as '#Justice for Barb'",
+        "When Nancy is talking to Ms. Holland on the phone, she tells a lie about Barb being in the library. Ironically, that would be true as her body was seen in the Upside Down version of the library.",
+        "Barb's childhood photos seen at the Hollands' house in 'MADMAX' are the true childhood photos of Shannon Purser, the actress of Barb.",
+        "Barb only met three main characters from the series, Nancy, Steve and Jonathan. It's possible she got to know Mike and Karen as she was friends with Nancy."
+      ]
+    },
+    "physicalInformation": {
+      "species": "human",
+      "genre": "feminine",
+      "height": null,
+      "weight": null,
+      "eyeColor": "Brown",
+      "hairColor": "red"
+    },
+    "Interpretation": {
+      "representedBy": "Shannon Purser",
+      "apparitions": [
+        "The Disappearance of Will Byers",
+        "The Stranger on Maple Street",
+        "Damn it",
+        "The body",
+        "The bathtub",
+        "The Upside Down"
+      ],
+      "socialNetworks": {
+        "Instagram": "https://www.instagram.com/shannonpurser/",
+        "Twitter": "https://twitter.com/shannonpurser"
+      },
+      "awards": null,
+      "patrimony": null,
+      "wage": null,
+      "nationality": "North-American",
+      "birthDate": "06/27/1997",
+      "occupations": ["Actress"]
+    }
+  }
+}
